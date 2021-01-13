@@ -1,0 +1,1001 @@
+#COMPARISON	LABEL	PATTERN	VEHICLE	FIGUR/LITERAL?	DEHUM?	TABOO?	EVAL/FRAME?	CONTRAD?	ABSURD?
+You behave like a toddler on acid.	ABUSE	P(You behave like)	V(a toddler on acid)	FIGUR	NONE	TABOO	EVAL	NONE	ABSURD
+Your face is like a sweaty mess.	ABUSE	P(Your face is like)	V(a sweaty mess)	LITERAL	DEHUM	NONE	EVAL	NONE	NONE
+Your manners are like well no manners really.	ABUSE	P(Your manners are like)	V(well no manners really)	LITERAL	NONE	NONE	EVAL	CONTRAD	NONE
+You look like you're lost.	OTHER	P(You look like)	V(you're lost)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your driving style reminds me of a person who has been badly treated.	ABUSE	P(Your driving style reminds me of)	V(a person who has been badly treated)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+You walk like a giraffe.	ABUSE	P(You walk like)	V(a giraffe)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look like you have been dragged through a hedge backwards.	ABUSE	P(You look like)	V(you have been dragged through a hedge backwards)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You reacted like a child who lost a balloon.	OTHER	P(You reacted like)	V(a child who lost a balloon)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your progress is like a snail moving.	ABUSE	P(Your progress is like)	V(a snail moving)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your smile is like a broken cliff.	ABUSE	P(Your smile is like)	V(a broken cliff)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+Your words are like fire.	OTHER	P(Your words are like)	V(fire)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You drive like a chimpanzee.	ABUSE	P(You drive like)	V(a chimpanzee)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your eyes are like a sack of potatoes.	ABUSE	P(Your eyes are like)	V(a sack of potatoes)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your reaction reminds me of someone that's just been told they've got a secret brother.	OTHER	P(Your reaction reminds me of)	V(someone that's just been told they've got a secret brother)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your conversations are like a stuttering engine.	ABUSE	P(Your conversations are like)	V(a stuttering engine)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your words are like a child's.	ABUSE	P(Your words are like)	V(a child's)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your presence is like that of a wasp.	ABUSE	P(Your presence is like)	V(that of a wasp)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your posture reminds me of an ironing board.	ABUSE	P(Your posture reminds me of)	V(an ironing board)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your driving style reminds me of nothing that would resemble driving.	ABUSE	P(Your driving style reminds me of)	V(nothing that would resemble driving)	FIGUR	NONE	NONE	EVAL	CONTRAD	NONE
+Your comments are like what kindergarten students use.	ABUSE	P(Your comments are like)	V(what kindergarten students use)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your conversations are like talking to a brick wall in the middle of a desert.	ABUSE	P(Your conversations are like)	V(talking to a brick wall in the middle of a desert)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+Your manners are like a small child.	ABUSE	P(Your manners are like)	V(a small child)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your nose is like an elephant trunk.	ABUSE	P(Your nose is like)	V(an elephant trunk)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your comments are like spiders in ice-cream.	ABUSE	P(Your comments are like)	V(spiders in ice-cream)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+Your voice sounds like a screaming cat.	ABUSE	P(Your voice sounds like)	V(a screaming cat)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You are as hungry as a hippo.	ABUSE	P(You are as hungry as)	V(a hippo)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your nose is like an icicle.	OTHER	P(Your nose is like)	V(an icicle)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You dance like an ironing board.	ABUSE	P(You dance like)	V(an ironing board)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are sweating like a marathon runner in the Sahara.	OTHER	P(You are sweating like)	V(a marathon runner in the Sahara)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your presence is like a parent has turned up at the party.	ABUSE	P(Your presence is like)	V(a parent has turned up at the party)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your attention span is like that of a student studying performing arts.	ABUSE	P(Your attention span is like)	V(that of a student studying performing arts)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your attitude is like a mini tornado.	OTHER	P(Your attitude is like)	V(a mini tornado)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your nose is like a healthy dog's.	ABUSE	P(Your nose is like)	V(a healthy dog's)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hands are like cold sausages.	ABUSE	P(Your hands are like)	V(cold sausages)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hands are like rakes.	ABUSE	P(Your hands are like)	V(rakes)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You make me feel like I'm wearing a straight jacket.	ABUSE	P(You make me feel like)	V(I'm wearing a straight jacket)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You walk like a scared penguin walking towards the rough sea.	OTHER	P(You walk like)	V(a scared penguin walking towards the rough sea)	FIGUR	DEHUM	NONE	FRAME	NONE	NONE
+Your sunburn makes you look like a fresh red apple.	OTHER	P(Your sunburn makes you look like)	V(a fresh red apple)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your input is like a two year old trying to help.	ABUSE	P(Your input is like)	V(a two year old trying to help)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your eyes are like bugs.	ABUSE	P(Your eyes are like)	V(bugs)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your eyes are like empty voids.	ABUSE	P(Your eyes are like)	V(empty voids)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hair looks like a nest.	ABUSE	P(Your hair looks like)	V(a nest)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look as tired as a dog.	OTHER	P(You look as tired as)	V(a dog)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your eyes are like doorways into hell itself.	ABUSE	P(Your eyes are like)	V(doorways into hell itself)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your eyes are like a night shift worker on their way home after a shift.	OTHER	P(Your eyes are like)	V(a night shift worker on their way home after a shift)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your lips are like ice.	OTHER	P(Your lips are like)	V(ice)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You drive like nobody's watching.	OTHER	P(You drive like)	V(nobody's watching)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You make me feel like a volcano about to errupt.	OTHER	P(You make me feel like)	V(a volcano about to errupt)	FIGUR	DEHUM	NONE	FRAME	NONE	NONE
+You move like a gorilla.	ABUSE	P(You move like)	V(a gorilla)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your smile is like the dying sun.	ABUSE	P(Your smile is like)	V(the dying sun)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as hungry as a fattened pig.	ABUSE	P(You are as hungry as)	V(a fattened pig)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You talk like a monkey with a mouth full of nuts.	ABUSE	P(You talk like)	V(a monkey with a mouth full of nuts)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You talk like words are going out of fashion.	ABUSE	P(You talk like)	V(words are going out of fashion)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your words are like limp spaghetti.	ABUSE	P(Your words are like)	V(limp spaghetti)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your presence is like a dark stormy night.	OTHER	P(Your presence is like)	V(a dark stormy night)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You move like a bull in a china shop.	ABUSE	P(You move like)	V(a bull in a china shop)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+Your sunburn makes you look like a ripe tomato.	OTHER	P(Your sunburn makes you look like)	V(a ripe tomato)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You remind me of a goldfish.	ABUSE	P(You remind me of)	V(a goldfish)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your words are like daggers.	OTHER	P(Your words are like)	V(daggers)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You eat like you are in a stuff-yourself-competition.	ABUSE	P(You eat like)	V(you are in a stuff-yourself-competition)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You remind me of a stormy night.	OTHER	P(You remind me of)	V(a stormy night)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look as tired as the dead.	OTHER	P(You look as tired as)	V(the dead)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your arms are like so short I'm surprised you can find clothes that fit you.	ABUSE	P(Your arms are like)	V(so short I'm surprised you can find clothes that fit you)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your posture reminds me of an elephant.	ABUSE	P(Your posture reminds me of)	V(an elephant)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hands are like jelly.	OTHER	P(Your hands are like)	V(jelly)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your input is like a baby giving their opinion on computer code.	ABUSE	P(Your input is like)	V(a baby giving their opinion on computer code)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+Your clothes are like crumpled up paper.	OTHER	P(Your clothes are like)	V(crumpled up paper)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attitude is like a toddler tantruming in the aisles.	ABUSE	P(Your attitude is like)	V(a toddler tantruming in the aisles)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You walk like a decrepid old thing.	ABUSE	P(You walk like)	V(a decrepid old thing)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your face is as pale as a sheet.	OTHER	P(Your face is as pale as)	V(a sheet)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your input is like an an overexcited teacher's.	OTHER	P(Your input is like)	V(an an overexcited teacher's)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your presence is like a clown.	ABUSE	P(Your presence is like)	V(a clown)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your voice is like a car alarm.	ABUSE	P(Your voice is like)	V(a car alarm)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your nose is like a mountain.	ABUSE	P(Your nose is like)	V(a mountain)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your smile is like a quarter moon and could be a full one.	OTHER	P(Your smile is like)	V(a quarter moon and could be a full one)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You drive like you've just escaped from prison.	ABUSE	P(You drive like)	V(you've just escaped from prison)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your presence is like a wandering minstrel.	OTHER	P(Your presence is like)	V(a wandering minstrel)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your attention span is like a goldfish's.	ABUSE	P(Your attention span is like)	V(a goldfish's)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You talk like a foreigner who doesn't know we speak their language.	ABUSE	P(You talk like)	V(a foreigner who doesn't know we speak their language)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You make me feel like ripping my own arm off to beat myself to death.	ABUSE	P(You make me feel like)	V(ripping my own arm off to beat myself to death)	FIGUR	NONE	TABOO	EVAL	NONE	ABSURD
+Your posture reminds me of a banana.	OTHER	P(Your posture reminds me of)	V(a banana)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You talk like an old man with no teeth.	ABUSE	P(You talk like)	V(an old man with no teeth)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+You behave like you've not eaten in weeks.	OTHER	P(You behave like)	V(you've not eaten in weeks)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+You walk like you have a broom wedged up your backside.	ABUSE	P(You walk like)	V(you have a broom wedged up your backside)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+You are sweating like a dog in heat.	ABUSE	P(You are sweating like)	V(a dog in heat)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+Your face is like a squashed tomato.	ABUSE	P(Your face is like)	V(a squashed tomato)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are acting like you need a nap.	OTHER	P(You are acting like)	V(you need a nap)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your words are like an attack.	OTHER	P(Your words are like)	V(an attack)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You cry like a child who doesn't understand what happened to his favourite superhero.	ABUSE	P(You cry like)	V(a child who doesn't understand what happened to his favourite superhero)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your manners are like a monkey's.	ABUSE	P(Your manners are like)	V(a monkey's)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You dance like a clown.	ABUSE	P(You dance like)	V(a clown)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your voice sounds like an out of tune instrument.	ABUSE	P(Your voice sounds like)	V(an out of tune instrument)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your progress is like walking through toffee.	ABUSE	P(Your progress is like)	V(walking through toffee)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+Your attention span is like a flash on a circuit.	ABUSE	P(Your attention span is like)	V(a flash on a circuit)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attention span is like a child's.	ABUSE	P(Your attention span is like)	V(a child's)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your conversations are like you're meeting your boyfriend's parents for the first time.	OTHER	P(Your conversations are like)	V(you're meeting your boyfriend's parents for the first time)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You look like a homeless person.	ABUSE	P(You look like)	V(a homeless person)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+You walk like a shadow.	OTHER	P(You walk like)	V(a shadow)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You talk like you've just seen a pig fly.	OTHER	P(You talk like)	V(you've just seen a pig fly)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+Your eyes are like glass balls.	OTHER	P(Your eyes are like)	V(glass balls)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are acting like a tantruming child.	ABUSE	P(You are acting like)	V(a tantruming child)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You remind me of a dried leaf.	ABUSE	P(You remind me of)	V(a dried leaf)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as hungry as a pug.	ABUSE	P(You are as hungry as)	V(a pug)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look as tired as a cat.	OTHER	P(You look as tired as)	V(a cat)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attitude is like a teenager's.	OTHER	P(Your attitude is like)	V(a teenager's)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your progress is like a tortoise.	ABUSE	P(Your progress is like)	V(a tortoise)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hair looks like a wet mop.	ABUSE	P(Your hair looks like)	V(a wet mop)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look like someone who's lost a pound and found a penny.	OTHER	P(You look like)	V(someone who's lost a pound and found a penny)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+You cry like a girl.	ABUSE	P(You cry like)	V(a girl)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your face is like a storm.	OTHER	P(Your face is like)	V(a storm)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look as tired as a hazy day.	OTHER	P(You look as tired as)	V(a hazy day)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You drive like a scared rabbit.	ABUSE	P(You drive like)	V(a scared rabbit)	FIGUR	DEHUM	NONE	FRAME	NONE	NONE
+You are sweating like a pig.	ABUSE	P(You are sweating like)	V(a pig)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You look like you've seen a ghost.	OTHER	P(You look like)	V(you've seen a ghost)	FIGUR	NONE	TABOO	FRAME	NONE	NONE
+Your reaction reminds me of a shocked cat.	OTHER	P(Your reaction reminds me of)	V(a shocked cat)	FIGUR	DEHUM	NONE	FRAME	NONE	NONE
+Your face is like a flying saucer.	ABUSE	P(Your face is like)	V(a flying saucer)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are acting like a dog in a park.	OTHER	P(You are acting like)	V(a dog in a park)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your clothes are like an old lady´s.	ABUSE	P(Your clothes are like)	V(an old lady´s)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your lips are like an emery board.	ABUSE	P(Your lips are like)	V(an emery board)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as hungry as a lion.	OTHER	P(You are as hungry as)	V(a lion)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as hungry as a herd of elephants.	OTHER	P(You are as hungry as)	V(a herd of elephants)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hair looks like hay.	ABUSE	P(Your hair looks like)	V(hay)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You reacted like a two year old.	ABUSE	P(You reacted like)	V(a two year old)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You talk like someone who has been hurt by others.	OTHER	P(You talk like)	V(someone who has been hurt by others)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your presence is like a stabbing pain in my eye.	ABUSE	P(Your presence is like)	V(a stabbing pain in my eye)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your words are like a blank dictionary.	ABUSE	P(Your words are like)	V(a blank dictionary)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+Your manners are like a toddler learning to say please and thank you.	OTHER	P(Your manners are like)	V(a toddler learning to say please and thank you)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your posture reminds me of an ill gorilla.	ABUSE	P(Your posture reminds me of)	V(an ill gorilla)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice is like an alarm only dogs can hear.	ABUSE	P(Your voice is like)	V(an alarm only dogs can hear)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You drive like a learner.	ABUSE	P(You drive like)	V(a learner)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your nose is like a locker that someone's trying to punch their way out of.	ABUSE	P(Your nose is like)	V(a locker that someone's trying to punch their way out of)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+Your presence is like play school.	ABUSE	P(Your presence is like)	V(play school)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your posture reminds me of a giraffe.	OTHER	P(Your posture reminds me of)	V(a giraffe)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your face is like a red stop light.	ABUSE	P(Your face is like)	V(a red stop light)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your conversations are as dull as dishwater.	ABUSE	P(Your conversations are as dull as)	V(dishwater)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your smile is like a cob of corn.	ABUSE	P(Your smile is like)	V(a cob of corn)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your arms are like tree trunks.	ABUSE	P(Your arms are like)	V(tree trunks)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your posture reminds me of a chimp.	ABUSE	P(Your posture reminds me of)	V(a chimp)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice is like pins and needles.	ABUSE	P(Your voice is like)	V(pins and needles)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your lips are like limp, dead fish.	ABUSE	P(Your lips are like)	V(limp, dead fish)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You look as tired as as an old tractor tyre that the farmer has run into the ground.	ABUSE	P(You look as tired as)	V(as an old tractor tyre that the farmer has run into the ground)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your eyes are like pools of mud.	ABUSE	P(Your eyes are like)	V(pools of mud)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your eyes are like windows.	OTHER	P(Your eyes are like)	V(windows)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice sounds like chalk on a chalkboard.	ABUSE	P(Your voice sounds like)	V(chalk on a chalkboard)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your movements remind me of an antelope.	OTHER	P(Your movements remind me of)	V(an antelope)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice is like a shrill.	ABUSE	P(Your voice is like)	V(a shrill)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are acting like an angry beaver.	ABUSE	P(You are acting like)	V(an angry beaver)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your eyes are like dark pools.	OTHER	P(Your eyes are like)	V(dark pools)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your reaction reminds me of a corpse.	ABUSE	P(Your reaction reminds me of)	V(a corpse)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+Your comments are like an alien from mars.	ABUSE	P(Your comments are like)	V(an alien from mars)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your conversations are like those white noise machines people listen to in order to fall asleep.	ABUSE	P(Your conversations are like)	V(those white noise machines people listen to in order to fall asleep)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your driving style reminds me of riding a roller coaster.	OTHER	P(Your driving style reminds me of)	V(riding a roller coaster)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your face is like a tomato.	ABUSE	P(Your face is like)	V(a tomato)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your arms are like thin knots on wire.	ABUSE	P(Your arms are like)	V(thin knots on wire)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You cry like a waterfall.	OTHER	P(You cry like)	V(a waterfall)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attention span is like a winter's day.	OTHER	P(Your attention span is like)	V(a winter's day)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your face is like a ghost.	OTHER	P(Your face is like)	V(a ghost)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+Your attention span is smaller than a goldfish's.	ABUSE	P(Your attention span is)	V(smaller than a goldfish's)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your eyes are like a setting sun.	OTHER	P(Your eyes are like)	V(a setting sun)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hands are like a shaky washing machine.	OTHER	P(Your hands are like)	V(a shaky washing machine)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look like a complete mess.	ABUSE	P(You look like)	V(a complete mess)	LITERAL	DEHUM	NONE	EVAL	NONE	NONE
+You drive like you're in a horse and cart.	OTHER	P(You drive like)	V(you're in a horse and cart)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your eyes are like chunks of coal.	ABUSE	P(Your eyes are like)	V(chunks of coal)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attention span is like the inner of a black hole, there is nothing.	ABUSE	P(Your attention span is like)	V(the inner of a black hole, there is nothing)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your presence is like a garbage can.	ABUSE	P(Your presence is like)	V(a garbage can)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You look like the back end of a bus.	ABUSE	P(You look like)	V(the back end of a bus)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You dance like an electric shock victim .	ABUSE	P(You dance like)	V(an electric shock victim )	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your arms are like sticks.	ABUSE	P(Your arms are like)	V(sticks)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your posture reminds me of a weary marathon runner.	OTHER	P(Your posture reminds me of)	V(a weary marathon runner)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your eyes are like fried eggs.	ABUSE	P(Your eyes are like)	V(fried eggs)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You walk like a tightrope walker.	OTHER	P(You walk like)	V(a tightrope walker)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your smile is like a rough stone.	ABUSE	P(Your smile is like)	V(a rough stone)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your progress is like the shifting tectonic plates.	ABUSE	P(Your progress is like)	V(the shifting tectonic plates)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You behave like a dark cloud.	ABUSE	P(You behave like)	V(a dark cloud)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your sunburn makes you look like you've been dipped in red paint.	OTHER	P(Your sunburn makes you look like)	V(you've been dipped in red paint)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You behave like it's your last meal.	OTHER	P(You behave like)	V(it's your last meal)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your arms are like string cheese.	ABUSE	P(Your arms are like)	V(string cheese)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You talk like a mouse on helium.	ABUSE	P(You talk like)	V(a mouse on helium)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your driving style reminds me of a rally driver.	OTHER	P(Your driving style reminds me of)	V(a rally driver)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your sunburn makes you look like a lobster.	OTHER	P(Your sunburn makes you look like)	V(a lobster)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attitude is like a great white shark.	OTHER	P(Your attitude is like)	V(a great white shark)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You walk like you have three legs and four pockets full of rubble.	ABUSE	P(You walk like)	V(you have three legs and four pockets full of rubble)	FIGUR	NONE	TABOO	EVAL	NONE	ABSURD
+Your reaction reminds me of the Tasmanian devil.	OTHER	P(Your reaction reminds me of)	V(the Tasmanian devil)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hands are like a fidgity squirrel.	OTHER	P(Your hands are like)	V(a fidgity squirrel)	FIGUR	DEHUM	NONE	FRAME	NONE	NONE
+You behave like you don't know what is right and wrong.	OTHER	P(You behave like)	V(you don't know what is right and wrong)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your sunburn makes you look like you have full body embarassment 24/7.	ABUSE	P(Your sunburn makes you look like)	V(you have full body embarassment 24/7)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your manners are like a pig's.	ABUSE	P(Your manners are like)	V(a pig's)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hair looks like cotton wool.	ABUSE	P(Your hair looks like)	V(cotton wool)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice sounds like a screeching owl.	ABUSE	P(Your voice sounds like)	V(a screeching owl)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your movements remind me of a one-legged puppy.	ABUSE	P(Your movements remind me of)	V(a one-legged puppy)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You move like a snowman waiting for his scarf.	ABUSE	P(You move like)	V(a snowman waiting for his scarf)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your clothes are like the ones a charity shop would throw away.	ABUSE	P(Your clothes are like)	V(the ones a charity shop would throw away)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your driving style reminds me of a child driving a pretend car in nursery.	ABUSE	P(Your driving style reminds me of)	V(a child driving a pretend car in nursery)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your reaction reminds me of a toddler.	ABUSE	P(Your reaction reminds me of)	V(a toddler)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You eat like you have worms.	ABUSE	P(You eat like)	V(you have worms)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your movements remind me of a dad dancing.	OTHER	P(Your movements remind me of)	V(a dad dancing)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You remind me of a beanstalk.	ABUSE	P(You remind me of)	V(a beanstalk)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You make me feel like bringing up my lunch.	ABUSE	P(You make me feel like)	V(bringing up my lunch)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+You are sweating like a horse.	OTHER	P(You are sweating like)	V(a horse)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your lips are like a trout's.	ABUSE	P(Your lips are like)	V(a trout's)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You cry like a toddler.	ABUSE	P(You cry like)	V(a toddler)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your comments are like a quiet breeze, they mean nothing.	ABUSE	P(Your comments are like)	V(a quiet breeze, they mean nothing)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice is like nails on a chalkboard.	ABUSE	P(Your voice is like)	V(nails on a chalkboard)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your face is like a prune.	ABUSE	P(Your face is like)	V(a prune)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your lips are like slugs.	ABUSE	P(Your lips are like)	V(slugs)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your lips are like a cracked glacier.	OTHER	P(Your lips are like)	V(a cracked glacier)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your lips are like a dead person's.	ABUSE	P(Your lips are like)	V(a dead person's)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your driving style reminds me of a monkey at the wheel.	ABUSE	P(Your driving style reminds me of)	V(a monkey at the wheel)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+You behave like a dog.	ABUSE	P(You behave like)	V(a dog)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your arms are like wet noodles.	ABUSE	P(Your arms are like)	V(wet noodles)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your smile is like the back of the moon.	ABUSE	P(Your smile is like)	V(the back of the moon)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your manners are like they would offend a caveman.	ABUSE	P(Your manners are like)	V(they would offend a caveman)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+Your face is like a glowing lantern.	ABUSE	P(Your face is like)	V(a glowing lantern)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attitude is like dirt.	ABUSE	P(Your attitude is like)	V(dirt)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You talk like a parrot.	ABUSE	P(You talk like)	V(a parrot)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hands are like sausages.	ABUSE	P(Your hands are like)	V(sausages)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You make me feel like a sad puppy.	OTHER	P(You make me feel like)	V(a sad puppy)	FIGUR	DEHUM	NONE	FRAME	NONE	NONE
+You behave like a mime.	ABUSE	P(You behave like)	V(a mime)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You cry like the foghorn off our local beach.	ABUSE	P(You cry like)	V(the foghorn off our local beach)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You behave like an overfed lion.	ABUSE	P(You behave like)	V(an overfed lion)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as hungry as a horse.	OTHER	P(You are as hungry as)	V(a horse)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice sounds like you have inhaled helium.	ABUSE	P(Your voice sounds like)	V(you have inhaled helium)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You eat like you have no teeth.	ABUSE	P(You eat like)	V(you have no teeth)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your sunburn makes you look like an orange.	ABUSE	P(Your sunburn makes you look like)	V(an orange)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your comments are like bumper stickers written by a four year old.	ABUSE	P(Your comments are like)	V(bumper stickers written by a four year old)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+Your arms are like spaghetti.	ABUSE	P(Your arms are like)	V(spaghetti)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your driving style reminds me of a blind person driving	ABUSE	P(Your driving style reminds me of)	V(a blind person driving)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your attention span is like a trout's.	ABUSE	P(Your attention span is like)	V(a trout's)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your presence is like a puppy in a pet shop.	OTHER	P(Your presence is like)	V(a puppy in a pet shop)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hands are like jellies.	OTHER	P(Your hands are like)	V(jellies)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your nose bears a lot of similarity to a pineapple.	ABUSE	P(Your nose bears a lot of similarity to)	V(a pineapple)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You drive like an old person, who is also blind.	ABUSE	P(You drive like)	V(an old person, who is also blind)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your comments are like something a frosty family would say.	OTHER	P(Your comments are like)	V(something a frosty family would say)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your comments are like a storm on a summer's day.	OTHER	P(Your comments are like)	V(a storm on a summer's day)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your reaction reminds me of a baboon.	ABUSE	P(Your reaction reminds me of)	V(a baboon)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your manners are like a barnyard animal.	ABUSE	P(Your manners are like)	V(a barnyard animal)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hair looks like you have been electrocuted.	ABUSE	P(Your hair looks like)	V(you have been electrocuted)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your movements remind me of someone having a fit.	ABUSE	P(Your movements remind me of)	V(someone having a fit)	FIGUR	NONE	TABOO	FRAME	NONE	NONE
+Your smile is like a daisy in amongst the sunflowers.	OTHER	P(Your smile is like)	V(a daisy in amongst the sunflowers)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your input is like bird intelligence.	ABUSE	P(Your input is like)	V(bird intelligence)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hands are like claws.	ABUSE	P(Your hands are like)	V(claws)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You move like slug on a Sunday.	ABUSE	P(You move like)	V(slug on a Sunday)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your driving style reminds me of trying to escape the police.	OTHER	P(Your driving style reminds me of)	V(trying to escape the police)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your arms are like jelly.	OTHER	P(Your arms are like)	V(jelly)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You dance like a headless chicken.	ABUSE	P(You dance like)	V(a headless chicken)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You move like a penguin.	ABUSE	P(You move like)	V(a penguin)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attention span is like an owl's.	OTHER	P(Your attention span is like)	V(an owl's)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your clothes are like you've been through a hedge.	ABUSE	P(Your clothes are like)	V(you've been through a hedge)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your manners are like a bull in a china shop.	ABUSE	P(Your manners are like)	V(a bull in a china shop)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+You look as tired as my old tea towel.	ABUSE	P(You look as tired as)	V(my old tea towel)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your manners are like a secret door, always closed.	OTHER	P(Your manners are like)	V(a secret door, always closed)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as hungry as a pig.	ABUSE	P(You are as hungry as)	V(a pig)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You talk like a dull robot.	ABUSE	P(You talk like)	V(a dull robot)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your conversations are like dry rice.	ABUSE	P(Your conversations are like)	V(dry rice)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your conversations are like beating around a bush.	OTHER	P(Your conversations are like)	V(beating around a bush)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are acting like a five year old.	ABUSE	P(You are acting like)	V(a five year old)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your voice is like an attack.	OTHER	P(Your voice is like)	V(an attack)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your presence is like a breakdown about to happen.	ABUSE	P(Your presence is like)	V(a breakdown about to happen)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your face is like a snooker ball.	ABUSE	P(Your face is like)	V(a snooker ball)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You talk like someone with lots on their mind.	OTHER	P(You talk like)	V(someone with lots on their mind)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You look like a mess.	ABUSE	P(You look like)	V(a mess)	LITERAL	DEHUM	NONE	EVAL	NONE	NONE
+Your hair looks like a wig.	ABUSE	P(Your hair looks like)	V(a wig)	LITERAL	DEHUM	NONE	EVAL	NONE	NONE
+You are acting like an enraged bull during a china shop exhibition.	OTHER	P(You are acting like)	V(an enraged bull during a china shop exhibition)	FIGUR	DEHUM	NONE	FRAME	NONE	ABSURD
+You eat like a pig.	ABUSE	P(You eat like)	V(a pig)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your sunburn makes you look like a doll painted totally red.	OTHER	P(Your sunburn makes you look like)	V(a doll painted totally red)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your input is like an out of control printer.	ABUSE	P(Your input is like)	V(an out of control printer)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your clothes are like a victorian gentleman designed them.	OTHER	P(Your clothes are like)	V(a victorian gentleman designed them)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You talk like an icicle.	OTHER	P(You talk like)	V(an icicle)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your reaction reminds me of a startled rabbit.	OTHER	P(Your reaction reminds me of)	V(a startled rabbit)	FIGUR	DEHUM	NONE	FRAME	NONE	NONE
+Your face looks like it's been hit with a spade.	ABUSE	P(Your face looks like)	V(it's been hit with a spade)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You reacted like a little girl.	ABUSE	P(You reacted like)	V(a little girl)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are as hungry as an obese guy who hasn't eaten for weeks.	ABUSE	P(You are as hungry as)	V(an obese guy who hasn't eaten for weeks)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your arms are like a force of nature.	OTHER	P(Your arms are like)	V(a force of nature)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You behave like an alien who's never eaten.	OTHER	P(You behave like)	V(an alien who's never eaten)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your progress is like you would make more progress if you tried to run a marathon sat in an armchair. 	ABUSE	P(Your progress is like)	V(you would make more progress if you tried to run a marathon sat in an armchair)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+This dress makes you look like a washer woman.	ABUSE	P(This dress makes you look like)	V(a washer woman)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You look as tired as an old dishcloth.	ABUSE	P(You look as tired as)	V(an old dishcloth)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You walk like a duck.	ABUSE	P(You walk like)	V(a duck)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You drive like an armless child.	ABUSE	P(You drive like)	V(an armless child)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+You look as tired as an overtime worker.	OTHER	P(You look as tired as)	V(an overtime worker)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You look like a glow stick.	OTHER	P(You look like)	V(a glow stick)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You remind me of pain.	OTHER	P(You remind me of)	V(pain)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You eat like an animal.	ABUSE	P(You eat like)	V(an animal)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hair looks like a large hat.	OTHER	P(Your hair looks like)	V(a large hat)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+This dress makes you look like a dog trapped in a sack.	ABUSE	P(This dress makes you look like)	V(a dog trapped in a sack)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+Your smile is like a pale sun.	OTHER	P(Your smile is like)	V(a pale sun)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hair looks like a bird's nest.	ABUSE	P(Your hair looks like)	V(a bird's nest)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your smile is comparable to that of a toad.	ABUSE	P(Your smile is comparable to)	V(that of a toad)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You cry like a dramatic teenager who just found out their favourite show was cancelled.	ABUSE	P(You cry like)	V(a dramatic teenager who just found out their favourite show was cancelled)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your reaction reminds me of a little girl.	ABUSE	P(Your reaction reminds me of)	V(a little girl)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are acting like an animal that has been the subject of medical experiments.	ABUSE	P(You are acting like)	V(an animal that has been the subject of medical experiments)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+Your hands are like a plate of sausages.	ABUSE	P(Your hands are like)	V(a plate of sausages)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your face is like snow.	OTHER	P(Your face is like)	V(snow)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are acting like a runaway train.	OTHER	P(You are acting like)	V(a runaway train)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You remind me of a lost dog.	OTHER	P(You remind me of)	V(a lost dog)	FIGUR	DEHUM	NONE	FRAME	NONE	NONE
+Your eyes are like puddles.	OTHER	P(Your eyes are like)	V(puddles)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your nose is like a chocolate button.	OTHER	P(Your nose is like)	V(a chocolate button)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your lips are like a fish.	ABUSE	P(Your lips are like)	V(a fish)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your conversations are like a swirling snowstorm.	OTHER	P(Your conversations are like)	V(a swirling snowstorm)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You cry like a child.	ABUSE	P(You cry like)	V(a child)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+This dress makes you look like a nun.	OTHER	P(This dress makes you look like)	V(a nun)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your voice is like a firecracker.	OTHER	P(Your voice is like)	V(a firecracker)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You make me feel like I am going to be sick.	ABUSE	P(You make me feel like)	V(I am going to be sick)	LITERAL	NONE	TABOO	EVAL	NONE	NONE
+Your voice is like an army sergeant's.	ABUSE	P(Your voice is like)	V(an army sergeant's)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are sweating like a race horse that has just finished a three mile sprint.	OTHER	P(You are sweating like)	V(a race horse that has just finished a three mile sprint)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You reacted like you had seen someone eat your chocolate.	OTHER	P(You reacted like)	V(you had seen someone eat your chocolate)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your input is like a whirlwind.	OTHER	P(Your input is like)	V(a whirlwind)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look like an icy abyss.	OTHER	P(You look like)	V(an icy abyss)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are acting like a jittery bird.	OTHER	P(You are acting like)	V(a jittery bird)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your input is as useful as a brick window.	ABUSE	P(Your input is as useful as)	V(a brick window)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+You move like an old lady.	ABUSE	P(You move like)	V(an old lady)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are as hungry as a wilted flower.	OTHER	P(You are as hungry as)	V(a wilted flower)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You reacted like someone came into your house on Christmas eve and stole the presents.	OTHER	P(You reacted like)	V(someone came into your house on Christmas eve and stole the presents)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your hair looks like a cloudy day.	OTHER	P(Your hair looks like)	V(a cloudy day)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You behave like you're starved.	ABUSE	P(You behave like)	V(you're starved)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your manners are like students in freshers week.	OTHER	P(Your manners are like)	V(students in freshers week)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your attention span is like a gnat.	ABUSE	P(Your attention span is like)	V(a gnat)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attitude is like you thought chopping off the arm was cool when all it needed was a plaster.	ABUSE	P(Your attitude is like)	V(you thought chopping off the arm was cool when all it needed was a plaster)	FIGUR	NONE	TABOO	EVAL	NONE	ABSURD
+Your presence is like a breath of fresh air.	OTHER	P(Your presence is like)	V(a breath of fresh air)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You move like a burns victim.	ABUSE	P(You move like)	V(a burns victim)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your voice sounds like someone hit a cat with a lawnmower.	ABUSE	P(Your voice sounds like)	V(someone hit a cat with a lawnmower)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+Your hands are like a monkey's.	ABUSE	P(Your hands are like)	V(a monkey's)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as hungry as a bear.	OTHER	P(You are as hungry as)	V(a bear)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attention span is like a moth surrounded by lightbulbs.	ABUSE	P(Your attention span is like)	V(a moth surrounded by lightbulbs)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+Your smile is like acid.	ABUSE	P(Your smile is like)	V(acid)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You talk like an express train.	OTHER	P(You talk like)	V(an express train)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your conversations are like a jigsaw of unrelated pieces.	OTHER	P(Your conversations are like)	V(a jigsaw of unrelated pieces)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your presence is like cold custard.	ABUSE	P(Your presence is like)	V(cold custard)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You reacted like someone who has not faced up to themself.	OTHER	P(You reacted like)	V(someone who has not faced up to themself)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your attention span is like that of someone who only hears what they want to hear.	OTHER	P(Your attention span is like)	V(that of someone who only hears what they want to hear)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your progress is like watching paint dry.	ABUSE	P(Your progress is like)	V(watching paint dry)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your comments are like shallow water lacking depth.	ABUSE	P(Your comments are like)	V(shallow water lacking depth)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your smile is like an ill fitting mask.	ABUSE	P(Your smile is like)	V(an ill fitting mask)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your face is like a compendium of emotion.	OTHER	P(Your face is like)	V(a compendium of emotion)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your posture reminds me of contradictory feelings.	OTHER	P(Your posture reminds me of)	V(contradictory feelings)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your hair looks like it has a mind of its own.	OTHER	P(Your hair looks like)	V(it has a mind of its own)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your nose is like a play that runs for years.	ABUSE	P(Your nose is like)	V(a play that runs for years)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your driving style reminds me of a ride at the fairground.	OTHER	P(Your driving style reminds me of)	V(a ride at the fairground)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attitude is like a robot with no conscience.	ABUSE	P(Your attitude is like)	V(a robot with no conscience)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your eyes are like they are set in cement.	OTHER	P(Your eyes are like)	V(they are set in cement)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your conversations are like walking against a strong wind.	OTHER	P(Your conversations are like)	V(walking against a strong wind)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your presence is like a cactus in the middle of a bunch of flowers.	ABUSE	P(Your presence is like)	V(a cactus in the middle of a bunch of flowers)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+You make me feel like a plant which has been watered with vinegar.	ABUSE	P(You make me feel like)	V(a plant which has been watered with vinegar)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+You reacted like a lighthouse without a bulb.	OTHER	P(You reacted like)	V(a lighthouse without a bulb)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+Your hair looks like a tangled rope.	ABUSE	P(Your hair looks like)	V(a tangled rope)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your lips are like a sad clown's.	ABUSE	P(Your lips are like)	V(a sad clown's)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your approach is like you don't care as much usual.	OTHER	P(Your approach is like)	V(you don't care as much usual)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+You cook like you have no tastebuds.	ABUSE	P(You cook like)	V(you have no tastebuds)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are built like a brick shed. 	ABUSE	P(You are built like)	V(a brick shed)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your posture reminds me of a plant which has been battered in a storm.	ABUSE	P(Your posture reminds me of)	V(a plant which has been battered in a storm)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your nose is like a marker on a map.	ABUSE	P(Your nose is like)	V(a marker on a map)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You cook like a hospitable giant.	ABUSE	P(You cook like)	V(a hospitable giant)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your input is like a foghorn.	ABUSE	P(Your input is like)	V(a foghorn)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look as tired as as someone who hasn't slept for a hundred years.	OTHER	P(You look as tired as)	V(as someone who hasn't slept for a hundred years)	FIGUR	NONE	NONE	FRAME	NONE	ABSURD
+Your eyes are like military grade lasers.	OTHER	P(Your eyes are like)	V(military grade lasers)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your arms are like two sausages.	ABUSE	P(Your arms are like)	V(two sausages)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look like a girl.	ABUSE	P(You look like)	V(a girl)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your hair looks like a garden when the gardener called in sick for a month.	ABUSE	P(Your hair looks like)	V(a garden when the gardener called in sick for a month)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You cook like you are rushing.	OTHER	P(You cook like)	V(you are rushing)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You cook like a servant for king's banquet.	OTHER	P(You cook like)	V(a servant for king's banquet)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your attention span is like a leaf in the wind.	OTHER	P(Your attention span is like)	V(a leaf in the wind)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are built like a sumo wrestler. 	ABUSE	P(You are built like)	V(a sumo wrestler)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You laugh like you have been inhaling helium.	ABUSE	P(You laugh like)	V(you have been inhaling helium)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+This dress makes you look like you wanted to include every colour.	OTHER	P(This dress makes you look like)	V(you wanted to include every colour)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You eat like it's going out of fashion.	ABUSE	P(You eat like)	V(it's going out of fashion)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your skin is like wood.	OTHER	P(Your skin is like)	V(wood)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attitude is like a warrior.	OTHER	P(Your attitude is like)	V(a warrior)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You eat like the tall man that you are.	OTHER	P(You eat like)	V(the tall man that you are)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your input is like vinegar on an open wound. 	ABUSE	P(Your input is like)	V(vinegar on an open wound)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as thin as a rail.	ABUSE	P(You are as thin as)	V(a rail)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your words cut like a knife.	OTHER	P(Your words cut like)	V(a knife)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You laugh like a clown.	ABUSE	P(You laugh like)	V(a clown)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your voice sounds like someone who had a rough night.	OTHER	P(Your voice sounds like)	V(someone who had a rough night)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your presence is like a spectre at a feast.	OTHER	P(Your presence is like)	V(a spectre at a feast)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You laugh like a cackling witch.	ABUSE	P(You laugh like)	V(a cackling witch)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are sweating like a man on death row.	OTHER	P(You are sweating like)	V(a man on death row)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your approach is like a hammer hitting a nail.	OTHER	P(Your approach is like)	V(a hammer hitting a nail)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your skin is like a wet blanket.	ABUSE	P(Your skin is like)	V(a wet blanket)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as modern as a caveman.	ABUSE	P(You are as modern as)	V(a caveman)	FIGUR	NONE	NONE	EVAL	CONTRAD	NONE
+Your posture reminds me of a willow tree.	OTHER	P(Your posture reminds me of)	V(a willow tree)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You laugh like it's not really funny.	OTHER	P(You laugh like)	V(it's not really funny)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your skin is like a white sheet.	OTHER	P(Your skin is like)	V(a white sheet)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are built like Brutalist architecture.	ABUSE	P(You are built like)	V(Brutalist architecture)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your input is like a sledgehammer.	ABUSE	P(Your input is like)	V(a sledgehammer)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look like you've done twelve rounds in a boxing ring with a heavyweight.	ABUSE	P(You look like)	V(you've done twelve rounds in a boxing ring with a heavyweight)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your eyes are like an eagle.	OTHER	P(Your eyes are like)	V(an eagle)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your comments are like having a fever in the middle of a heatwave.	OTHER	P(Your comments are like)	V(having a fever in the middle of a heatwave)	FIGUR	DEHUM	NONE	FRAME	NONE	NONE
+You laugh like a drain.	ABUSE	P(You laugh like)	V(a drain)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You are sweating like hot toast on a worktop.	OTHER	P(You are sweating like)	V(hot toast on a worktop)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You talk like a robot.	ABUSE	P(You talk like)	V(a robot)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your progress is like a phone charging without being plugged in.	OTHER	P(Your progress is like)	V(a phone charging without being plugged in)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+You are as hungry as the wolf.	OTHER	P(You are as hungry as)	V(the wolf)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You cook like you're cooking for a large family.	OTHER	P(You cook like)	V(you're cooking for a large family)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You are as modern as a typewriter.	OTHER	P(You are as modern as)	V(a typewriter)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+Your voice sounds like a piece of raspy sandpaper.	ABUSE	P(Your voice sounds like)	V(a piece of raspy sandpaper)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your smile is like an act.	ABUSE	P(Your smile is like)	V(an act)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your comments are like an argument.	ABUSE	P(Your comments are like)	V(an argument)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your attention span is like a phone with its sleep mode on after five seconds.	ABUSE	P(Your attention span is like)	V(a phone with its sleep mode on after five seconds)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your comments are like insults to my intelligence.	ABUSE	P(Your comments are like)	V(insults to my intelligence)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your clothes are like the clothes of an old man.	ABUSE	P(Your clothes are like)	V(the clothes of an old man)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You make me feel like I don’t matter.	OTHER	P(You make me feel like)	V(I don’t matter)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your sunburn makes you look like a beetroot.	OTHER	P(Your sunburn makes you look like)	V(a beetroot)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attention span is like a scattergun.	OTHER	P(Your attention span is like)	V(a scattergun)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as modern as today.	OTHER	P(You are as modern as)	V(today)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You cry like a baby.	ABUSE	P(You cry like)	V(a baby)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your approach is like lightning.	OTHER	P(Your approach is like)	V(lightning)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as modern as a flip phone.	OTHER	P(You are as modern as)	V(a flip phone)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+You are as thin as a zombie.	ABUSE	P(You are as thin as)	V(a zombie)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You are as modern as a grannie.	ABUSE	P(You are as modern as)	V(a grannie)	FIGUR	NONE	NONE	EVAL	CONTRAD	NONE
+You run faster than a minnow can swim a dipper.	ABUSE	P(You run faster than)	V(a minnow can swim a dipper)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your lips are like a badly plastered wall.	ABUSE	P(Your lips are like)	V(a badly plastered wall)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your approach is like that of statue that has been blown over.	ABUSE	P(Your approach is like)	V(that of statue that has been blown over)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as modern as a high street tech shop.	OTHER	P(You are as modern as)	V(a high street tech shop)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your sunburn makes you look like a well-ripened pepper.	OTHER	P(Your sunburn makes you look like)	V(a well-ripened pepper)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your skin is like tissue paper.	ABUSE	P(Your skin is like)	V(tissue paper)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your input is like a clap of thunder.	OTHER	P(Your input is like)	V(a clap of thunder)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You cook like a school dinner lady that is trying to kill all the students.	ABUSE	P(You cook like)	V(a school dinner lady that is trying to kill all the students)	FIGUR	NONE	TABOO	EVAL	NONE	ABSURD
+Your eyes are like backwards binoculars.	ABUSE	P(Your eyes are like)	V(backwards binoculars)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your movements remind me of a slow cyclist.	ABUSE	P(Your movements remind me of)	V(a slow cyclist)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You laugh like a hyena.	ABUSE	P(You laugh like)	V(a hyena)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your smile is like a mask.	ABUSE	P(Your smile is like)	V(a mask)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your presence is like an uninvited guest.	ABUSE	P(Your presence is like)	V(an uninvited guest)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are as hungry as a bottom swallowing a thong.	ABUSE	P(You are as hungry as)	V(a bottom swallowing a thong)	FIGUR	NONE	TABOO	EVAL	NONE	ABSURD
+Your skin is like someone in a black and white photo.	ABUSE	P(Your skin is like)	V(someone in a black and white photo)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You remind me of a cat on a hot tin roof.	OTHER	P(You remind me of)	V(a cat on a hot tin roof)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are sweating like a waterfall.	ABUSE	P(You are sweating like)	V(a waterfall)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You make me feel like an acquaintance.	OTHER	P(You make me feel like)	V(an acquaintance)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are built like a teddy bear.	ABUSE	P(You are built like)	V(a teddy bear)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice sounds like it's going to give up soon.	OTHER	P(Your voice sounds like)	V(it's going to give up soon)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your lips are like they haven't found the right colour yet.	ABUSE	P(Your lips are like)	V(they haven't found the right colour yet)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your responses are like you're half asleep.	OTHER	P(Your responses are like)	V(you're half asleep)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+You move like an old person who lost their bus pass.	ABUSE	P(You move like)	V(an old person who lost their bus pass)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are built like a champion.	OTHER	P(You are built like)	V(a champion)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your responses are like you really need to clear your head and refresh yourself.	ABUSE	P(Your responses are like)	V(you really need to clear your head and refresh yourself)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+You laugh like a car trying to start its engine.	ABUSE	P(You laugh like)	V(a car trying to start its engine)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as thin as piece of wafer.	ABUSE	P(You are as thin as)	V(piece of wafer)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as modern as a cassette player.	ABUSE	P(You are as modern as)	V(a cassette player)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+Your responses are like white noise.	ABUSE	P(Your responses are like)	V(white noise)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your clothes are like work clothes.	ABUSE	P(Your clothes are like)	V(work clothes)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your attention span is like melting snow.	OTHER	P(Your attention span is like)	V(melting snow)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You laugh like a garbage disposal unit.	ABUSE	P(You laugh like)	V(a garbage disposal unit)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+Your skin is like crepe paper.	ABUSE	P(Your skin is like)	V(crepe paper)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your comments are like a clanging bell.	OTHER	P(Your comments are like)	V(a clanging bell)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your room is like a car crash.	OTHER	P(Your room is like)	V(a car crash)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your words are as clear as mud.	ABUSE	P(Your words are)	V(as clear as mud)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+Your voice sounds like you've got tonsilitis.	OTHER	P(Your voice sounds like)	V(you've got tonsilitis)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+This dress makes you look like you're having a duvet day.	ABUSE	P(This dress makes you look like)	V(you're having a duvet day)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your smile is like a fake designer bag being sold on the street.	OTHER	P(Your smile is like)	V(a fake designer bag being sold on the street)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You dance like a moving lemur.	ABUSE	P(You dance like)	V(a moving lemur)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You reacted like a volcano.	OTHER	P(You reacted like)	V(a volcano)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your lips are like a pale white sheet.	OTHER	P(Your lips are like)	V(a pale white sheet)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You talk like a snake-oil salesman.	OTHER	P(You talk like)	V(a snake-oil salesman)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your clothes make you look fat.	ABUSE	P(Your clothes make)	V(you look fat)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your manners are as refined as a pig in a barrel.	ABUSE	P(Your manners are as)	V(refined as a pig in a barrel)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+You talk like a fish wife.	OTHER	P(You talk like)	V(a fish wife)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You dance like an ok dancer.	OTHER	P(You dance like)	V(an ok dancer)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your input is like a negative review.	OTHER	P(Your input is like)	V(a negative review)	LITERAL	DEHUM	NONE	EVAL	NONE	NONE
+Your face is like a cloudy day.	OTHER	P(Your face is like)	V(a cloudy day)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You have the face of a monkey.	ABUSE	P(You have the face of)	V(a monkey)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your progress is like torture because it’s so slow and painful.	ABUSE	P(Your progress is like)	V(torture because it’s so slow and painful)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your face is like a puddle of mud.	ABUSE	P(Your face is like)	V(a puddle of mud)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+With that hairstyle, you look like a homeless person.	ABUSE	P(With that hairstyle, you look like)	V(a homeless person)	LITERAL	NONE	TABOO	EVAL	NONE	NONE
+You have the face of an aged man.	ABUSE	P(You have the face of)	V(an aged man)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You dance like an engine running out of gas.	OTHER	P(You dance like)	V(an engine running out of gas)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your smile is like a graveyard.	ABUSE	P(Your smile is like)	V(a graveyard)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+Your manners are as flippant as a seal.	OTHER	P(Your manners are as)	V(flippant as a seal)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your clothes make you look old.	ABUSE	P(Your clothes make)	V(you look old)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your manners are as coarse as sandpaper.	ABUSE	P(Your manners are as)	V(coarse as sandpaper)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+With that hairstyle, you look like a tired person.	OTHER	P(With that hairstyle, you look like)	V(a tired person)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+You are as common as dirt.	ABUSE	P(You are as common as)	V(dirt)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as common as muck.	ABUSE	P(You are as common as)	V(muck)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your input is like using a marshmallow to hammer nails into a wall.	ABUSE	P(Your input is like)	V(using a marshmallow to hammer nails into a wall)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+You talk like a ghost.	OTHER	P(You talk like)	V(a ghost)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You are as modern as the exhibits in a museum.	OTHER	P(You are as modern as)	V(the exhibits in a museum)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+Your clothes make you look like you don't care.	OTHER	P(Your clothes make)	V(you look like you don't care)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+You are as thin as an elephant.	ABUSE	P(You are as thin as)	V(an elephant)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+Your posture reminds me of a person who is completely overwhelmed.	OTHER	P(Your posture reminds me of)	V(a person who is completely overwhelmed)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your lips are like dried raisins.	ABUSE	P(Your lips are like)	V(dried raisins)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You have the face of a sad person.	OTHER	P(You have the face of)	V(a sad person)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your garden is like a burned desert.	OTHER	P(Your garden is like)	V(a burned desert)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your clothes make you appear larger than you are.	OTHER	P(Your clothes make)	V(you appear larger than you are)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your attitude is like the road is war and other drivers are the enemies.	OTHER	P(Your attitude is like)	V(the road is war and other drivers are the enemies)	FIGUR	NONE	TABOO	EVAL	NONE	ABSURD
+You dance like a child.	ABUSE	P(You dance like)	V(a child)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are as cheap as borscht.	OTHER	P(You are as cheap as)	V(borscht)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your garden is like a shed.	ABUSE	P(Your garden is like)	V(a shed)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your clothes make you seem like a bag-lady.	OTHER	P(Your clothes make)	V(you seem like a bag-lady)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+You run like a headless chicken.	ABUSE	P(You run like)	V(a headless chicken)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You sing like a mosquito on a sweltering night.	OTHER	P(You sing like)	V(a mosquito on a sweltering night)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your manners are as offensive as the worst possible stand up comedian.	OTHER	P(Your manners are as)	V(offensive as the worst possible stand up comedian)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You have the face of someone who has sat in a damp patch.	OTHER	P(You have the face of)	V(someone who has sat in a damp patch)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+You have the face of thunder.	OTHER	P(You have the face of)	V(thunder)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You remind me of a pig when you eat.	ABUSE	P(You remind me of)	V(a pig when you eat)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You have the face of a grey stone statue.	OTHER	P(You have the face of)	V(a grey stone statue)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You have the face of a clown.	ABUSE	P(You have the face of)	V(a clown)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your approach is like an axe chopping wood.	OTHER	P(Your approach is like)	V(an axe chopping wood)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as deaf as a doorpost.	OTHER	P(You are as deaf as)	V(a doorpost)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+Your clothes make people laugh.	ABUSE	P(Your clothes make)	V(people laugh)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You eat like a three year old.	ABUSE	P(You eat like)	V(a three year old)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You move like you are wading through mud.	OTHER	P(You move like)	V(you are wading through mud)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are as dull as ditchwater.	ABUSE	P(You are as dull as)	V(ditchwater)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your responses are like it's painful for you to talk.	OTHER	P(Your responses are like)	V(it's painful for you to talk)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+You have the face of a chimpanzee.	ABUSE	P(You have the face of)	V(a chimpanzee)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your responses are like they were said without thinking.	OTHER	P(Your responses are like)	V(they were said without thinking)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You laugh like a train. 	OTHER	P(You laugh like)	V(a train)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your face is like a thunderstorm.	OTHER	P(Your face is like)	V(a thunderstorm)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your conversations are like an empty room.	OTHER	P(Your conversations are like)	V(an empty room)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You sing like a wailing cat.	ABUSE	P(You sing like)	V(a wailing cat)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You have the face of a glistening waterfall.	OTHER	P(You have the face of)	V(a glistening waterfall)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as thin as a stick.	ABUSE	P(You are as thin as)	V(a stick)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your garden is like a tip.	ABUSE	P(Your garden is like)	V(a tip)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your clothes make no sense.	OTHER	P(Your clothes make)	V(no sense)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You eat like a doll.	OTHER	P(You eat like)	V(a doll)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as fat as a cow.	ABUSE	P(You are as fat as)	V(a cow)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You cook like a school dinner lady.	OTHER	P(You cook like)	V(a school dinner lady)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You eat like a hungry person.	OTHER	P(You eat like)	V(a hungry person)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+With that hairstyle, you look like you've been dragged through a hedge backwards.	ABUSE	P(With that hairstyle, you look like)	V(you've been dragged through a hedge backwards)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You eat like a hungry monkey.	ABUSE	P(You eat like)	V(a hungry monkey)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+You eat like a digger.	ABUSE	P(You eat like)	V(a digger)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your posture reminds me of a deflated balloon.	OTHER	P(Your posture reminds me of)	V(a deflated balloon)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You have the face of a porcelain mug.	OTHER	P(You have the face of)	V(a porcelain mug)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You talk like a teenager.	ABUSE	P(You talk like)	V(a teenager)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your face is like the face of somebody who has given up on life.	OTHER	P(Your face is like)	V(the face of somebody who has given up on life)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+You are built like a huge unit.	ABUSE	P(You are built like)	V(a huge unit)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as modern as bakelite.	ABUSE	P(You are as modern as)	V(bakelite)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+With that hairstyle, you look like you're wearing a helmet.	ABUSE	P(With that hairstyle, you look like)	V(you're wearing a helmet)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You remind me of the colour brown.	OTHER	P(You remind me of)	V(the colour brown)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You sing like a broken parrot.	ABUSE	P(You sing like)	V(a broken parrot)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+You talk like a child.	ABUSE	P(You talk like)	V(a child)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your skin is like a crater on the moon.	ABUSE	P(Your skin is like)	V(a crater on the moon)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You eat like a warthog.	ABUSE	P(You eat like)	V(a warthog)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You remind me of a clown when you wear makeup.	ABUSE	P(You remind me of)	V(a clown when you wear makeup)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are as cheap as chips.	ABUSE	P(You are as cheap as)	V(chips)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your skin is like rubber.	OTHER	P(Your skin is like)	V(rubber)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your approach is like is loud it can be heard in the Australian outback.	OTHER	P(Your approach is like)	V(is loud it can be heard in the Australian outback)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your manners are as cold as ice.	OTHER	P(Your manners are as)	V(cold as ice)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look as tired as someone who hasn't slept for two weeks.	OTHER	P(You look as tired as)	V(someone who hasn't slept for two weeks)	FIGUR	NONE	NONE	FRAME	NONE	ABSURD
+You remind me of a rash.	ABUSE	P(You remind me of)	V(a rash)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You sing like a skunk.	ABUSE	P(You sing like)	V(a skunk)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You dance like a disco man.	OTHER	P(You dance like)	V(a disco man)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You sing like a catfish.	ABUSE	P(You sing like)	V(a catfish)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attitude is like a hurricane.	OTHER	P(Your attitude is like)	V(a hurricane)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+Your garden is like a bomb site.	OTHER	P(Your garden is like)	V(a bomb site)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+With that hairstyle, you look like you've aged.	OTHER	P(With that hairstyle, you look like)	V(you've aged)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your manners are as refined as a monkey's.	ABUSE	P(Your manners are as)	V(refined as a monkey's)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+You have the face of a cow.	ABUSE	P(You have the face of)	V(a cow)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You remind me of a dog slobbering over its dinner.	ABUSE	P(You remind me of)	V(a dog slobbering over its dinner)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are built like a house.	ABUSE	P(You are built like)	V(a house)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your manners are as limited as a child's.	ABUSE	P(Your manners are as)	V(limited as a child's)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your responses are like a tanker trying to do a U-turn in the ocean.	OTHER	P(Your responses are like)	V(a tanker trying to do a U-turn in the ocean)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You have the face of someone only a mother could love.	ABUSE	P(You have the face of)	V(someone only a mother could love)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your arms are like milky tubes.	OTHER	P(Your arms are like)	V(milky tubes)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as smart as a neanderthal.	ABUSE	P(You are as smart as)	V(a neanderthal)	FIGUR	NONE	NONE	EVAL	CONTRAD	NONE
+You remind me of a tsunami.	OTHER	P(You remind me of)	V(a tsunami)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You are as thin as a string bean.	OTHER	P(You are as thin as)	V(a string bean)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as dull as dishwater.	ABUSE	P(You are as dull as)	V(dishwater)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your manners are as good as a monkey's.	ABUSE	P(Your manners are as)	V(good as a monkey's)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+You are as hungry as a fat man.	ABUSE	P(You are as hungry as)	V(a fat man)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your garden is like a jungle.	OTHER	P(Your garden is like)	V(a jungle)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your movements remind me of a robot.	ABUSE	P(Your movements remind me of)	V(a robot)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You sing like a piece of chalk on a blackboard.	ABUSE	P(You sing like)	V(a piece of chalk on a blackboard)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You dance like a three-legged animal.	ABUSE	P(You dance like)	V(a three-legged animal)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+Your arms are like pastry.	OTHER	P(Your arms are like)	V(pastry)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You have the face of a thunderstorm.	OTHER	P(You have the face of)	V(a thunderstorm)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You sing like a broken record.	ABUSE	P(You sing like)	V(a broken record)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You have the face of a thundery day.	OTHER	P(You have the face of)	V(a thundery day)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You remind me of a flat tyre.	ABUSE	P(You remind me of)	V(a flat tyre)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as thin as a rake.	OTHER	P(You are as thin as)	V(a rake)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+With that hairstyle, you look like a clown.	ABUSE	P(With that hairstyle, you look like)	V(a clown)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are as fat as a house.	ABUSE	P(You are as fat as)	V(a house)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You dance like a bear.	OTHER	P(You dance like)	V(a bear)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your skin is like a badly burnt pizza.	ABUSE	P(Your skin is like)	V(a badly burnt pizza)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You have the face of a politician.	ABUSE	P(You have the face of)	V(a politician)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+This dress makes you look like your hips are wider than usual.	OTHER	P(This dress makes you look like)	V(your hips are wider than usual)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your clothes are like they are borrowed.	ABUSE	P(Your clothes are like)	V(they are borrowed)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You cook like you've never seen an oven before.	ABUSE	P(You cook like)	V(you've never seen an oven before)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+With that hairstyle, you look like you've just got out of bed.	OTHER	P(With that hairstyle, you look like)	V(you've just got out of bed)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You are acting like you have no education.	ABUSE	P(You are acting like)	V(you have no education)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your hair is as silky as sandpaper.	ABUSE	P(Your hair is as silky as)	V(sandpaper)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice sounds like a cheese grater.	ABUSE	P(Your voice sounds like)	V(a cheese grater)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hair looks like a sheep dog.	OTHER	P(Your hair looks like)	V(a sheep dog)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You dance like a broken lamp.	ABUSE	P(You dance like)	V(a broken lamp)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your approach is like sandpaper on skin.	ABUSE	P(Your approach is like)	V(sandpaper on skin)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as modern as as the cavemen.	ABUSE	P(You are as modern as)	V(as the cavemen)	FIGUR	NONE	NONE	EVAL	CONTRAD	NONE
+You remind me of a train wreck.	ABUSE	P(You remind me of)	V(a train wreck)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+Your room is like a civil service office block.	OTHER	P(Your room is like)	V(a civil service office block)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You have the face of squashed pumpkin.	ABUSE	P(You have the face of)	V(squashed pumpkin)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your garden is like a mess.	OTHER	P(Your garden is like)	V(a mess)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your room is like a monk's cell.	OTHER	P(Your room is like)	V(a monk's cell)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You sing like a strangled goat.	ABUSE	P(You sing like)	V(a strangled goat)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You look as tired as someone who has been running a mile.	OTHER	P(You look as tired as)	V(someone who has been running a mile)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You have the face of someone who's been eating lemons.	ABUSE	P(You have the face of)	V(someone who's been eating lemons)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+You have the face of mashed peas.	ABUSE	P(You have the face of)	V(mashed peas)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You sing like a hawk.	OTHER	P(You sing like)	V(a hawk)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You remind me of a cloudy day.	OTHER	P(You remind me of)	V(a cloudy day)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are built like someone who needs a lot of sustenance.	OTHER	P(You are built like)	V(someone who needs a lot of sustenance)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+You sing like a howling dog.	ABUSE	P(You sing like)	V(a howling dog)	FIGUR	DEHUM	NONE	FRAME	NONE	NONE
+You dance like a chimpanzee.	ABUSE	P(You dance like)	V(a chimpanzee)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your responses are like you are being personally attacked.	OTHER	P(Your responses are like)	V(you are being personally attacked)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your conversations are like a glacier moving.	OTHER	P(Your conversations are like)	V(a glacier moving)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look like you have been dragged through a bush.	ABUSE	P(You look like)	V(you have been dragged through a bush)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You remind me of roadkill.	ABUSE	P(You remind me of)	V(roadkill)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You are as smart as a toad.	ABUSE	P(You are as smart as)	V(a toad)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+You make me feel like a spare part.	OTHER	P(You make me feel like)	V(a spare part)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You sing like a karaoke fan.	OTHER	P(You sing like)	V(a karaoke fan)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You cook like a student.	OTHER	P(You cook like)	V(a student)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You have the face of a ghost.	OTHER	P(You have the face of)	V(a ghost)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+With that hairstyle, you look like an old man.	ABUSE	P(With that hairstyle, you look like)	V(an old man)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+With that hairstyle, you look like a privet hedge.	ABUSE	P(With that hairstyle, you look like)	V(a privet hedge)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are sweating like a priest in a playground.	ABUSE	P(You are sweating like)	V(a priest in a playground)	FIGUR	NONE	TABOO	EVAL	NONE	ABSURD
+Your approach is like a sledge hammer.	OTHER	P(Your approach is like)	V(a sledge hammer)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your comments are like a dog whistle.	OTHER	P(Your comments are like)	V(a dog whistle)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are acting like you are carrying weights on your back.	OTHER	P(You are acting like)	V(you are carrying weights on your back)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your smile is like it is upside down.	OTHER	P(Your smile is like)	V(it is upside down)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You look as tired as a single mother of four.	ABUSE	P(You look as tired as)	V(a single mother of four)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You sing like the wind whistling through my windows on a rainy night.	OTHER	P(You sing like)	V(the wind whistling through my windows on a rainy night)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your arms are like a determined police officer directing traffic.	OTHER	P(Your arms are like)	V(a determined police officer directing traffic)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your arms are like a windmill.	OTHER	P(Your arms are like)	V(a windmill)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your movements remind me of someone disabled.	ABUSE	P(Your movements remind me of)	V(someone disabled)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your clothes are like you are always on your way to a funeral.	ABUSE	P(Your clothes are like)	V(you are always on your way to a funeral)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your smile is like you aren't feeling like yourself these days.	OTHER	P(Your smile is like)	V(you aren't feeling like yourself these days)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your comments are like a sigh.	OTHER	P(Your comments are like)	V(a sigh)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+You are as hungry as a vacuum.	OTHER	P(You are as hungry as)	V(a vacuum)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your comments are like someone reciting memorized multiplication tables.	OTHER	P(Your comments are like)	V(someone reciting memorized multiplication tables)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You eat like a snail.	OTHER	P(You eat like)	V(a snail)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice sounds like you have blocked sinuses.	OTHER	P(Your voice sounds like)	V(you have blocked sinuses)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your sunburn makes you look like a red balloon.	ABUSE	P(Your sunburn makes you look like)	V(a red balloon)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look as tired as night.	OTHER	P(You look as tired as)	V(night)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your clothes make me feel sick.	ABUSE	P(Your clothes make)	V(me feel sick)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+You are as hungry as a person who seems like they have never seen food before.	ABUSE	P(You are as hungry as)	V(a person who seems like they have never seen food before)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+This dress makes you look like a new woman.	OTHER	P(This dress makes you look like)	V(a new woman)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your voice sounds like car brakes squealing.	ABUSE	P(Your voice sounds like)	V(car brakes squealing)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You eat like you have not eaten in days.	OTHER	P(You eat like)	V(you have not eaten in days)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your voice sounds like a powerful storm blowing through the concert hall.	OTHER	P(Your voice sounds like)	V(a powerful storm blowing through the concert hall)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+Your responses are like a cat with its head in box.	OTHER	P(Your responses are like)	V(a cat with its head in box)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your skin is as pale as vanilla ice cream.	OTHER	P(Your skin is as pale as)	V(vanilla ice cream)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are acting like a fraction of your age.	ABUSE	P(You are acting like)	V(a fraction of your age)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your skin is like a piece of crepe.	ABUSE	P(Your skin is like)	V(a piece of crepe)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You eat like you're starving.	OTHER	P(You eat like)	V(you're starving)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+You eat like you haven't had any great food in a while.	OTHER	P(You eat like)	V(you haven't had any great food in a while)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your lips are like cracked ice.	OTHER	P(Your lips are like)	V(cracked ice)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attention span is like a nano second.	ABUSE	P(Your attention span is like)	V(a nano second)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as hungry as a fat kid.	ABUSE	P(You are as hungry as)	V(a fat kid)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You talk like a waning candle.	OTHER	P(You talk like)	V(a waning candle)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your nose is like the Niagara falls.	OTHER	P(Your nose is like)	V(the Niagara falls)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your smile is like a weeping willow.	OTHER	P(Your smile is like)	V(a weeping willow)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice is like a soft breeze, but you can be more forceful when it's called for.	OTHER	P(Your voice is like)	V(a soft breeze, but you can be more forceful when it's called for)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your manners are like an overbearing waiter.	ABUSE	P(Your manners are like)	V(an overbearing waiter)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your clothes make you look very large.	ABUSE	P(Your clothes make)	V(you look very large)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+With that hairstyle, you look like a librarian in a British boarding school.	ABUSE	P(With that hairstyle, you look like)	V(a librarian in a British boarding school)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You sing like you are very passionate.	OTHER	P(You sing like)	V(you are very passionate)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your presence is like you're not even there.	OTHER	P(Your presence is like)	V(you're not even there)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your voice is like a trombone.	OTHER	P(Your voice is like)	V(a trombone)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You eat like you haven't eaten in days.	OTHER	P(You eat like)	V(you haven't eaten in days)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your clothes are like prunes.	ABUSE	P(Your clothes are like)	V(prunes)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your skin is like the colour of the moon.	OTHER	P(Your skin is like)	V(the colour of the moon)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You move like an old person.	ABUSE	P(You move like)	V(an old person)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are as hungry as a marathon finisher.	OTHER	P(You are as hungry as)	V(a marathon finisher)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your smile is like a yellow crayon.	OTHER	P(Your smile is like)	V(a yellow crayon)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your approach is like a bull in a china shop.	ABUSE	P(Your approach is like)	V(a bull in a china shop)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+You are as hungry as a man returning from space.	OTHER	P(You are as hungry as)	V(a man returning from space)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your lips are like dry leaves.	OTHER	P(Your lips are like)	V(dry leaves)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your clothes are like they are hanging off you.	OTHER	P(Your clothes are like)	V(they are hanging off you)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You reacted like someone who is frozen in time.	OTHER	P(You reacted like)	V(someone who is frozen in time)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You look as tired as an old handbag.	ABUSE	P(You look as tired as)	V(an old handbag)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your responses are like someone has never had an adult conversation with you before.	ABUSE	P(Your responses are like)	V(someone has never had an adult conversation with you before)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your clothes are like a tent.	OTHER	P(Your clothes are like)	V(a tent)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your voice is like a car horn.	ABUSE	P(Your voice is like)	V(a car horn)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice sounds like a distant echo.	OTHER	P(Your voice sounds like)	V(a distant echo)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are acting like you're at the end of your tether.	OTHER	P(You are acting like)	V(you're at the end of your tether)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your movements remind me of an alien.	ABUSE	P(Your movements remind me of)	V(an alien)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your clothes make you ten years older.	ABUSE	P(Your clothes make)	V(you ten years older)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your movements remind me of a plodding elephant.	ABUSE	P(Your movements remind me of)	V(a plodding elephant)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+This dress makes you look like a parent.	ABUSE	P(This dress makes you look like)	V(a parent)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You sing like a thunderstorm.	OTHER	P(You sing like)	V(a thunderstorm)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your comments are like compliments, so they can be difficult to interpret if you don't like what someone is saying.	OTHER	P(Your comments are like)	V(compliments, so they can be difficult to interpret if you don't like what someone is saying)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your clothes make you look like you need to go shopping for some.	ABUSE	P(Your clothes make)	V(you look like you need to go shopping for some)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your lips are like a flower in winter - need some extra care.	OTHER	P(Your lips are like)	V(a flower in winter - need some extra care)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your arms are like dowel rods.	OTHER	P(Your arms are like)	V(dowel rods)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look as tired as a wilting plant.	OTHER	P(You look as tired as)	V(a wilting plant)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your clothes are like you picked them off your bedroom floor this morning.	ABUSE	P(Your clothes are like)	V(you picked them off your bedroom floor this morning)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your garden is like a sea of trash.	ABUSE	P(Your garden is like)	V(a sea of trash)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+You look as tired as your clothes.	ABUSE	P(You look as tired as)	V(your clothes)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your movements remind me of a ballet dancer with no training.	ABUSE	P(Your movements remind me of)	V(a ballet dancer with no training)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your presence is like a shadow.	OTHER	P(Your presence is like)	V(a shadow)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your presence is like someone trapped in an elevator.	OTHER	P(Your presence is like)	V(someone trapped in an elevator)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your manners are like you want to be liked, but you should feel confident to tell the truth.	OTHER	P(Your manners are like)	V(you want to be liked, but you should feel confident to tell the truth)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your presence is like a cloud across the sky, you are needed and useful but can sometimes be difficult to see.	OTHER	P(Your presence is like)	V(a cloud across the sky, you are needed and useful but can sometimes be difficult to see)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your sunburn makes you look like a lobster on a sunbed.	OTHER	P(Your sunburn makes you look like)	V(a lobster on a sunbed)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+Your lips are like the Gobi desert.	OTHER	P(Your lips are like)	V(the Gobi desert)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+This dress makes you look like you are starring in a musical.	OTHER	P(This dress makes you look like)	V(you are starring in a musical)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your posture reminds me of Quasimodo.	ABUSE	P(Your posture reminds me of)	V(Quasimodo)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your posture reminds me of weeping willow tree.	OTHER	P(Your posture reminds me of)	V(weeping willow tree)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You sing like a off-tune whistle.	ABUSE	P(You sing like)	V(a off-tune whistle)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You behave like you are running out of time.	OTHER	P(You behave like)	V(you are running out of time)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your voice sounds like a rasp.	OTHER	P(Your voice sounds like)	V(a rasp)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your movements remind me of jelly.	ABUSE	P(Your movements remind me of)	V(jelly)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice sounds like it is getting better all the time.	OTHER	P(Your voice sounds like)	V(it is getting better all the time)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your voice is like you've just run a marathon.	OTHER	P(Your voice is like)	V(you've just run a marathon)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your clothes are like a wrinkled sheet of paper.	OTHER	P(Your clothes are like)	V(a wrinkled sheet of paper)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your manners are like the opposite of good customer service.	ABUSE	P(Your manners are like)	V(the opposite of good customer service)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your responses are like a talking to a tree.	ABUSE	P(Your responses are like)	V(a talking to a tree)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You move like a pregnant cow.	ABUSE	P(You move like)	V(a pregnant cow)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You eat like a wilting rose.	OTHER	P(You eat like)	V(a wilting rose)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You sing like a dying bird.	ABUSE	P(You sing like)	V(a dying bird)	FIGUR	DEHUM	TABOO	FRAME	NONE	NONE
+With that hairstyle, you look like you've been dragged through a storm.	ABUSE	P(With that hairstyle, you look like)	V(you've been dragged through a storm)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You eat like someone with stomach ulcers presented with a buffet of spicy food.	OTHER	P(You eat like)	V(someone with stomach ulcers presented with a buffet of spicy food)	FIGUR	NONE	TABOO	FRAME	NONE	NONE
+Your nose is like the sun.	OTHER	P(Your nose is like)	V(the sun)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your posture reminds me of a peeled orange rind.	OTHER	P(Your posture reminds me of)	V(a peeled orange rind)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your smile is like conscientious gymnast, always deliberate and well-practiced.	OTHER	P(Your smile is like)	V(conscientious gymnast, always deliberate and well-practiced)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your clothes are like an old tree.	ABUSE	P(Your clothes are like)	V(an old tree)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your voice is like someone hasn't turned on the microphone.	OTHER	P(Your voice is like)	V(someone hasn't turned on the microphone)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your arms are like cooked spaghetti.	ABUSE	P(Your arms are like)	V(cooked spaghetti)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your clothes are like you aren't feeling confident about yourself.	OTHER	P(Your clothes are like)	V(you aren't feeling confident about yourself)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+You are as hungry as twenty people.	OTHER	P(You are as hungry as)	V(twenty people)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are acting like you have no idea where you are heading.	OTHER	P(You are acting like)	V(you have no idea where you are heading)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your attention span is like someone who doesn't know the definition of concentration.	OTHER	P(Your attention span is like)	V(someone who doesn't know the definition of concentration)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You look as tired as a worn out dishcloth.	ABUSE	P(You look as tired as)	V(a worn out dishcloth)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your responses are like those of a dead man.	ABUSE	P(Your responses are like)	V(those of a dead man)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+You are sweating like a trooper.	OTHER	P(You are sweating like)	V(a trooper)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your nose is like it is stuffed, or might be blocked - maybe you aren't feeling well.	OTHER	P(Your nose is like)	V(it is stuffed, or might be blocked - maybe you aren't feeling well)	LITERAL	NONE	TABOO	EVAL	NONE	NONE
+Your posture reminds me of someone very caught in the moment.	OTHER	P(Your posture reminds me of)	V(someone very caught in the moment)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+With that hairstyle, you look like you aren't sure what you want.	OTHER	P(With that hairstyle, you look like)	V(you aren't sure what you want)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your comments are like the bloopers of a film.	OTHER	P(Your comments are like)	V(the bloopers of a film)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your smile is like an eclipse.	OTHER	P(Your smile is like)	V(an eclipse)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your garden is like a field without any grass only not as pretty.	ABUSE	P(Your garden is like)	V(a field without any grass only not as pretty)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your skin is like you've seen a ghost.	OTHER	P(Your skin is like)	V(you've seen a ghost)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your skin is like the colour of the snow in the arctic.	OTHER	P(Your skin is like)	V(the colour of the snow in the arctic)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your face is like a white sheet of paper.	OTHER	P(Your face is like)	V(a white sheet of paper)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look like you're not enjoying yourself.	OTHER	P(You look like)	V(you're not enjoying yourself)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your progress is like you're stepping backwards.	OTHER	P(Your progress is like)	V(you're stepping backwards)	FIGUR	NONE	NONE	EVAL	CONTRAD	NONE
+You reacted like a woman.	ABUSE	P(You reacted like)	V(a woman)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You move like you're hurt.	OTHER	P(You move like)	V(you're hurt)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your progress is like a slow climb up a large mountain.	OTHER	P(Your progress is like)	V(a slow climb up a large mountain)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You reacted like you got caught with your trousers down.	OTHER	P(You reacted like)	V(you got caught with your trousers down)	FIGUR	NONE	TABOO	FRAME	NONE	NONE
+You are built like a tank.	OTHER	P(You are built like)	V(a tank)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You drive like the speed of lightening.	OTHER	P(You drive like)	V(the speed of lightening)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are acting like you are unhappy.	OTHER	P(You are acting like)	V(you are unhappy)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your face is like it's as hot as the sun.	OTHER	P(Your face is like)	V(it's as hot as the sun)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You reacted like a virgin.	ABUSE	P(You reacted like)	V(a virgin)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+With that hairstyle, you look like you had a fight and lost.	OTHER	P(With that hairstyle, you look like)	V(you had a fight and lost)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You cry like something is really wrong.	OTHER	P(You cry like)	V(something is really wrong)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You behave like you haven't eaten in a while.	OTHER	P(You behave like)	V(you haven't eaten in a while)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You laugh like a kazoo. 	ABUSE	P(You laugh like)	V(a kazoo)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You remind me of that person from the cold and flu advert. 	OTHER	P(You remind me of)	V(that person from the cold and flu advert)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your approach is like that of someone with brain damage.	ABUSE	P(Your approach is like)	V(that of someone with brain damage)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+You are as thin as someone who’s just done an extreme diet.	OTHER	P(You are as thin as)	V(someone who’s just done an extreme diet)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+This dress makes you look like a horror show.	ABUSE	P(This dress makes you look like)	V(a horror show)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your approach is like a meteor hitting a mountain.	OTHER	P(Your approach is like)	V(a meteor hitting a mountain)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are sweating like the ocean.	OTHER	P(You are sweating like)	V(the ocean)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your sunburn makes you look like a fire truck.	OTHER	P(Your sunburn makes you look like)	V(a fire truck)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your input is like a mudslide.	OTHER	P(Your input is like)	V(a mudslide)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look like you're having a bad day.	OTHER	P(You look like)	V(you're having a bad day)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+You move like your energy has been sapped away.	OTHER	P(You move like)	V(your energy has been sapped away)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your progress is like wading through mud.	OTHER	P(Your progress is like)	V(wading through mud)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You drive like a race car driver.	OTHER	P(You drive like)	V(a race car driver)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are built like a professional race car driver.	OTHER	P(You are built like)	V(a professional race car driver)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You dance like you may need a few more lessons.	OTHER	P(You dance like)	V(you may need a few more lessons)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You remind me of a poor soul.	OTHER	P(You remind me of)	V(a poor soul)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You laugh like you're faking it.	OTHER	P(You laugh like)	V(you're faking it)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your progress is like an old printer printing a full colour page.	OTHER	P(Your progress is like)	V(an old printer printing a full colour page)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your input is like you don't want this project to succeed. 	OTHER	P(Your input is like)	V(you don't want this project to succeed)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your input is like a garbled voicemail.	ABUSE	P(Your input is like)	V(a garbled voicemail)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your approach is like a bus crashing into a oil tanker.	ABUSE	P(Your approach is like)	V(a bus crashing into a oil tanker)	FIGUR	DEHUM	TABOO	EVAL	NONE	ABSURD
+You drive like you're in a movie.	OTHER	P(You drive like)	V(you're in a movie)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You drive like you're driving an ambulance. 	OTHER	P(You drive like)	V(you're driving an ambulance)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are sweating like a slave picking cotton.	ABUSE	P(You are sweating like)	V(a slave picking cotton)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your movements remind me of a wasp beetle.	OTHER	P(Your movements remind me of)	V(a wasp beetle)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You talk like you're unsure.	OTHER	P(You talk like)	V(you're unsure)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+This dress makes you look like you are suffering.	ABUSE	P(This dress makes you look like)	V(you are suffering)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+You a sweating like a sponge that has been squeezed.	OTHER	P(You are sweating like)	V(You a sweating like a sponge that has been squeezed)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hair looks like you have been running for half an hour.	OTHER	P(Your hair looks like)	V(you have been running for half an hour)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your hair looks like you sucked it up into the vacuum.	OTHER	P(Your hair looks like)	V(you sucked it up into the vacuum)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+With that hairstyle, you look like a beehive. 	OTHER	P(With that hairstyle, you look like)	V(a beehive)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are drive like you are busting to use the bathroom.	OTHER	P(You drive like)	V(You are drive like you are busting to use the bathroom)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+You cry like a downpour.	OTHER	P(You cry like)	V(a downpour)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You drive like a boy racer.	OTHER	P(You drive like)	V(a boy racer)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your hair looks like it's been trimmed.	OTHER	P(Your hair looks like)	V(it's been trimmed)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You move like in a slow-motion film.	OTHER	P(You move like)	V(in a slow-motion film)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You reacted like dough in the sea.	OTHER	P(You reacted like)	V(dough in the sea)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your approach is like a bad golfer. 	OTHER	P(Your approach is like)	V(a bad golfer)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your approach is like a giant fat slug.	ABUSE	P(Your approach is like)	V(a giant fat slug)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You move like you're late for an important meeting.	OTHER	P(You move like)	V(you're late for an important meeting)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your input is like the foam in sea.	OTHER	P(Your input is like)	V(the foam in sea)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hair looks like an explosion.	OTHER	P(Your hair looks like)	V(an explosion)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look like you haven't slept in days. 	OTHER	P(You look like)	V(you haven't slept in days)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+You dance like a used car lot blow-up.	OTHER	P(You dance like)	V(a used car lot blow-up)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+With that hairstyle, you look like you've been running.	OTHER	P(With that hairstyle, you look like)	V(you've been running)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your movements remind me of a washing machine's spin cycle.	OTHER	P(Your movements remind me of)	V(a washing machine's spin cycle)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You dance like no-one is watching.	OTHER	P(You dance like)	V(no-one is watching)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your nose is like you've lied too much.	OTHER	P(Your nose is like)	V(you've lied too much)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your input is like a magic eight ball.	OTHER	P(Your input is like)	V(a magic eight ball)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your movements remind me of the ocean.	OTHER	P(Your movements remind me of)	V(the ocean)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are built like a racing driver.	OTHER	P(You are built like)	V(a racing driver)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your movements remind me of a robot.	OTHER	P(Your movements remind me of)	V(a robot)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are built like a fort.	OTHER	P(You are built like)	V(a fort)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+With that hairstyle, you look like you need a new mirror.	ABUSE	P(With that hairstyle, you look like)	V(you need a new mirror)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your sunburn makes you look like an old piece of leather.	ABUSE	P(Your sunburn makes you look like)	V(an old piece of leather)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your nose is like a hook.	ABUSE	P(Your nose is like)	V(a hook)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are sweating like a tap.	ABUSE	P(You are sweating like)	V(a tap)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You reacted like your arthritis somehow got worse.	ABUSE	P(You reacted like)	V(your arthritis somehow got worse)	LITERAL	NONE	TABOO	FRAME	NONE	NONE
+With that hairstyle, you look like an overgrown hedge.	ABUSE	P(With that hairstyle, you look like)	V(an overgrown hedge)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You dance like you lived in the 50's.	OTHER	P(You dance like)	V(you lived in the 50's)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your approach is like a waste of time.	ABUSE	P(Your approach is like)	V(a waste of time)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your nose is like something that could be used for fishing.	ABUSE	P(Your nose is like)	V(something that could be used for fishing)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You cry like someone who really wants to express emotions hard.	OTHER	P(You cry like)	V(someone who really wants to express emotions hard)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+With that hairstyle, you look like you got ready in a hurry.	OTHER	P(With that hairstyle, you look like)	V(you got ready in a hurry)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+With that hairstyle, you look like a dense leafy tree.	OTHER	P(With that hairstyle, you look like)	V(a dense leafy tree)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You cry like you've been wounded.	OTHER	P(You cry like)	V(you've been wounded)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+You move like a rainy cloud.	OTHER	P(You move like)	V(a rainy cloud)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your manners are like you learned them from a video.	OTHER	P(Your manners are like)	V(you learned them from a video)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your sunburn makes you look like you have had a chemical peel.	ABUSE	P(Your sunburn makes you look like)	V(you have had a chemical peel)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You laugh like you're a habitual smoker.	OTHER	P(You laugh like)	V(you're a habitual smoker)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your nose is like a button.	OTHER	P(Your nose is like)	V(a button)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your movements remind me of a thriller movie.	OTHER	P(Your movements remind me of)	V(a thriller movie)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your manners are like you don't care if I like you or not. 	OTHER	P(Your manners are like)	V(you don't care if I like you or not)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+This dress makes you look like you live in a barn.	ABUSE	P(This dress makes you look like)	V(you live in a barn)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You move like a body builder.	OTHER	P(You move like)	V(a body builder)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your sunburn makes you look like burnt sausages.	ABUSE	P(Your sunburn makes you look like)	V(burnt sausages)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+This dress makes you look like a pile of rags.	ABUSE	P(This dress makes you look like)	V(a pile of rags)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You are built like a Tonka truck.	ABUSE	P(You are built like)	V(a Tonka truck)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You dance like someone being electrocuted.	ABUSE	P(You dance like)	V(someone being electrocuted)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+You drive like you're about to lose control of your bowels.	ABUSE	P(You drive like)	V(you're about to lose control of your bowels)	FIGUR	NONE	TABOO	FRAME	NONE	NONE
+You reacted like a child who had been kept in a cage since birth.	ABUSE	P(You reacted like)	V(a child who had been kept in a cage since birth)	FIGUR	NONE	TABOO	EVAL	NONE	ABSURD
+You remind me of someone in need of a good rest.	OTHER	P(You remind me of)	V(someone in need of a good rest)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your progress is like a sapling.	OTHER	P(Your progress is like)	V(a sapling)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You cry like you are in pain.	OTHER	P(You cry like)	V(you are in pain)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your manners are like someone who acts aloof.	OTHER	P(Your manners are like)	V(someone who acts aloof)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your progress is like an iron without steam.	OTHER	P(Your progress is like)	V(an iron without steam)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You dance like you've never heard music before.	OTHER	P(You dance like)	V(you've never heard music before)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your hair looks like it was quick to do.	OTHER	P(Your hair looks like)	V(it was quick to do)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your sunburn makes you look like a light breeze could peel your skin.	OTHER	P(Your sunburn makes you look like)	V(a light breeze could peel your skin)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+Your movements remind me of a muscle twitch.	ABUSE	P(Your movements remind me of)	V(a muscle twitch)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You cry like you have an ocean of tears within you.	OTHER	P(You cry like)	V(you have an ocean of tears within you)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+Your movements remind me of a tornado. 	OTHER	P(Your movements remind me of)	V(a tornado)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You move like you're depressed.	OTHER	P(You move like)	V(you're depressed)	FIGUR	NONE	TABOO	FRAME	NONE	NONE
+Your progress is like a dessert.	OTHER	P(Your progress is like)	V(a dessert)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your nose is like something I have never seen before. 	OTHER	P(Your nose is like)	V(something I have never seen before)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look like a cold winter's night.	OTHER	P(You look like)	V(a cold winter's night)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your input is like you are working on a different task than me.	OTHER	P(Your input is like)	V(you are working on a different task than me)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are sweating like your parents saw what you did last night.	OTHER	P(You are sweating like)	V(your parents saw what you did last night)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your input is like someone who didn’t study properly for a test.	OTHER	P(Your input is like)	V(someone who didn’t study properly for a test)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are sweating like a fat person.	ABUSE	P(You are sweating like)	V(a fat person)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your movements remind me of a roller coaster.	OTHER	P(Your movements remind me of)	V(a roller coaster)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+This dress makes you look like you couldn’t make it to an art shop and only had time to use things at home.	OTHER	P(This dress makes you look like)	V(you couldn’t make it to an art shop and only had time to use things at home)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your movements remind me of someone who’s taking part in a rally race.	OTHER	P(Your movements remind me of)	V(someone who’s taking part in a rally race)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+With that hairstyle, you look like you got caught in the wind.	OTHER	P(With that hairstyle, you look like)	V(you got caught in the wind)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You cry like a river after a storm.	OTHER	P(You cry like)	V(a river after a storm)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You drive like you will get the first prize.	OTHER	P(You drive like)	V(you will get the first prize)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your manners are like a storm.	OTHER	P(Your manners are like)	V(a storm)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hair looks like you have changed it. 	OTHER	P(Your hair looks like)	V(you have changed it)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your nose is like a melted mannequin. 	ABUSE	P(Your nose is like)	V(a melted mannequin)	FIGUR	DEHUM	NONE	EVAL	NONE	ABSURD
+You move like you're holding the whole world on your shoulders.	OTHER	P(You move like)	V(you're holding the whole world on your shoulders)	FIGUR	NONE	NONE	FRAME	NONE	ABSURD
+This dress makes you look like squat.	ABUSE	P(This dress makes you look like)	V(squat)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your hair looks like it is perfect for Halloween.	ABUSE	P(Your hair looks like)	V(it is perfect for Halloween)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You laugh like a loud clown.	ABUSE	P(You laugh like)	V(a loud clown)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your progress is like it's stalled a bit.	OTHER	P(Your progress is like)	V(it's stalled a bit)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You are built like a brick outhouse.	OTHER	P(You are built like)	V(a brick outhouse)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+Your approach is like an autistic kid let out of the house for the first time.	ABUSE	P(Your approach is like)	V(an autistic kid let out of the house for the first time)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+You reacted like it was your first time experiencing a fun time.	OTHER	P(You reacted like)	V(it was your first time experiencing a fun time)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+You are sweating like a block of ice in the hot sun.	OTHER	P(You are sweating like)	V(a block of ice in the hot sun)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You are built like a shack.	ABUSE	P(You are built like)	V(a shack)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your nose is like a dollar store witches nose.	ABUSE	P(Your nose is like)	V(a dollar store witches nose)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You behave like no one is around. 	OTHER	P(You behave like)	V(no one is around)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your approach is like typing whilst wearing boxing gloves.	OTHER	P(Your approach is like)	V(typing whilst wearing boxing gloves)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+Your progress is like watching the phases of the moon.	OTHER	P(Your progress is like)	V(watching the phases of the moon)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You laugh like there's no one listening or watching. 	OTHER	P(You laugh like)	V(there's no one listening or watching)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+You move like you have the weight of the world on your shoulders. 	OTHER	P(You move like)	V(you have the weight of the world on your shoulders)	FIGUR	NONE	NONE	FRAME	NONE	ABSURD
+You drive like you have no sense of danger.	OTHER	P(You drive like)	V(you have no sense of danger)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+You dance like your arms and legs are doing something different. 	OTHER	P(You dance like)	V(your arms and legs are doing something different)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You cry like someone forgot your birthday.	OTHER	P(You cry like)	V(someone forgot your birthday)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You behave like you've not seen food in days.	OTHER	P(You behave like)	V(you've not seen food in days)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are as thin as someone who has been living off coffee alone.	OTHER	P(You are as thin as)	V(someone who has been living off coffee alone)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your progress is like you're still at the start of the race.	OTHER	P(Your progress is like)	V(you're still at the start of the race)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your approach is like a map that leads to nowhere.	OTHER	P(Your approach is like)	V(a map that leads to nowhere)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You look like someone in need of a hug.	OTHER	P(You look like)	V(someone in need of a hug)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+You behave like a tide crashing crashing onto the shoreline.	OTHER	P(You behave like)	V(a tide crashing crashing onto the shoreline)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are acting like a lost soul.	OTHER	P(You are acting like)	V(a lost soul)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+You cry like an overflowing drain.	OTHER	P(You cry like)	V(an overflowing drain)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your conversations are like shots in the dark.	ABUSE	P(Your conversations are like)	V(shots in the dark)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You make me feel like sticking my fingers down my throat and puking.	ABUSE	P(You make me feel like)	V(sticking my fingers down my throat and puking)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your attitude is like a hungry toddler's.	OTHER	P(Your attitude is like)	V(a hungry toddler's)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your conversations are like dogs howling. 	ABUSE	P(Your conversations are like)	V(dogs howling)	FIGUR	DEHUM	NONE	FRAME	NONE	NONE
+Your driving style reminds me of watching paint dry. 	OTHER	P(Your driving style reminds me of)	V(watching paint dry)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are as modern as history.	ABUSE	P(You are as modern as)	V(history)	FIGUR	NONE	NONE	EVAL	CONTRAD	NONE
+Your clothes make a real statement.	OTHER	P(Your clothes make)	V(a real statement)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your responses are like fire. 	OTHER	P(Your responses are like)	V(fire)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your driving style reminds me of a car crash. 	ABUSE	P(Your driving style reminds me of)	V(a car crash)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You walk like a disabled cat. 	ABUSE	P(You walk like)	V(a disabled cat)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+Your responses are like you're brain dead. 	ABUSE	P(Your responses are like)	V(you're brain dead)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your attitude is like the steam on my poo.	ABUSE	P(Your attitude is like)	V(the steam on my poo)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You are as modern as those in the middle ages.	ABUSE	P(You are as modern as)	V(those in the middle ages)	FIGUR	NONE	NONE	EVAL	CONTRAD	NONE
+Your attitude is like muck.	ABUSE	P(Your attitude is like)	V(muck)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your words are like a child has written them.	ABUSE	P(Your words are like)	V(a child has written them)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your voice is like a painful cry.	OTHER	P(Your voice is like)	V(a painful cry)	FIGUR	NONE	NONE	FRAME	NONE	NONE
+Your reaction reminds me of opening champagne.	OTHER	P(Your reaction reminds me of)	V(opening champagne)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You make me feel like dog poo. 	ABUSE	P(You make me feel like)	V(dog poo)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+Your attitude is like a swamp.	ABUSE	P(Your attitude is like)	V(a swamp)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your room is like a bare canvas.	OTHER	P(Your room is like)	V(a bare canvas)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You make me feel like the spectator of a car crash. 	OTHER	P(You make me feel like)	V(the spectator of a car crash)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+You are as modern as the stone age people.	OTHER	P(You are as modern as)	V(the stone age people)	FIGUR	NONE	NONE	EVAL	CONTRAD	NONE
+You cook like you dance. 	OTHER	P(You cook like)	V(you dance)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You walk like your feet aren't attached to your legs.	ABUSE	P(You walk like)	V(your feet aren't attached to your legs)	FIGUR	NONE	TABOO	EVAL	NONE	ABSURD
+Your words are like a punch to the gut.	OTHER	P(Your words are like)	V(a punch to the gut)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice is like a cat has been strangled. 	ABUSE	P(Your voice is like)	V(a cat has been strangled)	FIGUR	DEHUM	TABOO	FRAME	NONE	NONE
+Your clothes make me want to laugh. 	ABUSE	P(Your clothes make)	V(me want to laugh)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your driving style reminds me of a grand prix on a good day.	OTHER	P(Your driving style reminds me of)	V(a grand prix on a good day)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You cook like a refrigerator.	ABUSE	P(You cook like)	V(a refrigerator)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your driving style reminds me of a glacier.	OTHER	P(Your driving style reminds me of)	V(a glacier)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice is like a stream. 	OTHER	P(Your voice is like)	V(a stream)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your clothes make you appear twice your size.	ABUSE	P(Your clothes make)	V(you appear twice your size)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your clothes make you fill the room.	ABUSE	P(Your clothes make)	V(you fill the room)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your reaction reminds me of sleeping.	OTHER	P(Your reaction reminds me of)	V(sleeping)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your words are like a baby's. 	OTHER	P(Your words are like)	V(a baby's)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your reaction reminds me of an actor. 	OTHER	P(Your reaction reminds me of)	V(an actor)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your garden is like an overgrown forest.	OTHER	P(Your garden is like)	V(an overgrown forest)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your hands are like shrivelled up, old prunes. 	ABUSE	P(Your hands are like)	V(shrivelled up, old prunes)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your voice is like a bell.	OTHER	P(Your voice is like)	V(a bell)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your reaction reminds me of nothing. 	OTHER	P(Your reaction reminds me of)	V(nothing)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your hands are like buckets.	ABUSE	P(Your hands are like)	V(buckets)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You make me feel like hiding when you ring the doorbell.	ABUSE	P(You make me feel like)	V(hiding when you ring the doorbell)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your room is like a dark hotel room.	OTHER	P(Your room is like)	V(a dark hotel room)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your manners are as clear as a foggy day.	OTHER	P(Your manners are as)	V(clear as a foggy day)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+You cook like you've never turned on an oven before.	ABUSE	P(You cook like)	V(you've never turned on an oven before)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You make me feel like a dustbin.	OTHER	P(You make me feel like)	V(a dustbin)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You walk like a wrestler.	ABUSE	P(You walk like)	V(a wrestler)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your conversations are like a dull day. 	ABUSE	P(Your conversations are like)	V(a dull day)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You cook like someone who is just starting to discover food.	OTHER	P(You cook like)	V(someone who is just starting to discover food)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your words are like someone who is just learning to read. 	ABUSE	P(Your words are like)	V(someone who is just learning to read)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your driving style reminds me of a learner. 	OTHER	P(Your driving style reminds me of)	V(a learner)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your room is like a homeless person lives here. 	ABUSE	P(Your room is like)	V(a homeless person lives here)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your manners are as smooth as a crowd of football supporters.	OTHER	P(Your manners are as)	V(smooth as a crowd of football supporters)	FIGUR	NONE	NONE	EVAL	CONTRAD	NONE
+Your room is like a dirty drug den. 	ABUSE	P(Your room is like)	V(a dirty drug den)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your driving style reminds me of a dodgem.	ABUSE	P(Your driving style reminds me of)	V(a dodgem)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You cook like a blind man. 	ABUSE	P(You cook like)	V(a blind man)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+You are as modern as an old person. 	ABUSE	P(You are as modern as)	V(an old person)	FIGUR	NONE	NONE	EVAL	CONTRAD	NONE
+Your reaction reminds me of a deflated balloon. 	OTHER	P(Your reaction reminds me of)	V(a deflated balloon)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attitude is like pond slime.	OTHER	P(Your attitude is like)	V(pond slime)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hands are like a ghost's.	OTHER	P(Your hands are like)	V(a ghost's)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You are as thin as a piece of paper.	OTHER	P(You are as thin as)	V(a piece of paper)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You walk like you’ve taken a dump in your pants.	ABUSE	P(You walk like)	V(you’ve taken a dump in your pants)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your conversations are like listening to a bad song on repeat. 	ABUSE	P(Your conversations are like)	V(listening to a bad song on repeat)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are as thin as a matchstick drawing.	ABUSE	P(You are as thin as)	V(a matchstick drawing)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as thin as a noodle. 	ABUSE	P(You are as thin as)	V(a noodle)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You walk like a model. 	OTHER	P(You walk like)	V(a model)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You cook like an old person without a brain. 	ABUSE	P(You cook like)	V(an old person without a brain)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your words are like icicles.	OTHER	P(Your words are like)	V(icicles)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You walk like you are treading on broken glass.	OTHER	P(You walk like)	V(you are treading on broken glass)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are as thin as papyrus.	ABUSE	P(You are as thin as)	V(papyrus)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your responses are like someone who has just woken from a coma. 	ABUSE	P(Your responses are like)	V(someone who has just woken from a coma)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your hands are like paper.	OTHER	P(Your hands are like)	V(paper)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your hands are like those of a china doll.	OTHER	P(Your hands are like)	V(those of a china doll)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You cook like you read the instructions backwards. 	ABUSE	P(You cook like)	V(you read the instructions backwards)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+Your conversations are like you are talking to people in a foreign language.	ABUSE	P(Your conversations are like)	V(you are talking to people in a foreign language)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your reaction reminds me of a jester.	OTHER	P(Your reaction reminds me of)	V(a jester)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your hands are like pieces of string.	ABUSE	P(Your hands are like)	V(pieces of string)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your driving style reminds me of a kangaroo on speed.	OTHER	P(Your driving style reminds me of)	V(a kangaroo on speed)	FIGUR	DEHUM	TABOO	EVAL	NONE	ABSURD
+Your words are like stains on a white sheet.	ABUSE	P(Your words are like)	V(stains on a white sheet)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You make me feel like a wet blanket.	OTHER	P(You make me feel like)	V(a wet blanket)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your attitude is like a thunder cloud.	OTHER	P(Your attitude is like)	V(a thunder cloud)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your responses are so slow a snail could catch them.	OTHER	P(Your responses are)	V(so slow a snail could catch them)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+Your words are like I'm being suffocated. 	OTHER	P(Your words are like)	V(I'm being suffocated)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+You cook like a hospital canteen on a bad day.	ABUSE	P(You cook like)	V(a hospital canteen on a bad day)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are as thin as dirty, old dish water.	ABUSE	P(You are as thin as)	V(dirty, old dish water)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You are as modern as a Stone Age man's grandma. 	ABUSE	P(You are as modern as)	V(a Stone Age man's grandma)	FIGUR	NONE	NONE	EVAL	CONTRAD	ABSURD
+Your room is like a DIY project.	OTHER	P(Your room is like)	V(a DIY project)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You are as thin as a pencil. 	ABUSE	P(You are as thin as)	V(a pencil)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your responses are like nothing I’ve ever seen.	OTHER	P(Your responses are like)	V(nothing I’ve ever seen)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your manners are like a German racing for a sun lounger.	ABUSE	P(Your manners are like)	V(a German racing for a sun lounger)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your clothes make me smile.	OTHER	P(Your clothes make)	V(me smile)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your conversations are like someone who is in the clouds.	OTHER	P(Your conversations are like)	V(someone who is in the clouds)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+Your words are like stone. 	OTHER	P(Your words are like)	V(stone)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your words are like a knife. 	OTHER	P(Your words are like)	V(a knife)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as modern as the plague.	ABUSE	P(You are as modern as)	V(the plague)	FIGUR	DEHUM	NONE	EVAL	CONTRAD	NONE
+Your responses are like sandpaper.	OTHER	P(Your responses are like)	V(sandpaper)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your conversations are like a TV soap.	OTHER	P(Your conversations are like)	V(a TV soap)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your garden is like a sewer. 	ABUSE	P(Your garden is like)	V(a sewer)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your reaction reminds me of a mute.	ABUSE	P(Your reaction reminds me of)	V(a mute)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your voice is like a a drone. 	ABUSE	P(Your voice is like)	V(a a drone)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+Your manners are as good as your golf skills. 	OTHER	P(Your manners are as)	V(good as your golf skills)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your attitude is like a broken umbrella.	OTHER	P(Your attitude is like)	V(a broken umbrella)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as modern as a hermit. 	OTHER	P(You are as modern as)	V(a hermit)	FIGUR	NONE	NONE	EVAL	CONTRAD	NONE
+Your responses are like stones sinking to the bottom of a pond.	OTHER	P(Your responses are like)	V(stones sinking to the bottom of a pond)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You walk like someone walking through fire.	OTHER	P(You walk like)	V(someone walking through fire)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your room is like the inside of a sewer.	ABUSE	P(Your room is like)	V(the inside of a sewer)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your garden is like a forest.	OTHER	P(Your garden is like)	V(a forest)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your hands are like a witches.	ABUSE	P(Your hands are like)	V(a witches)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your garden is like a refugee camp. 	ABUSE	P(Your garden is like)	V(a refugee camp)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your voice is like a foghorn.	ABUSE	P(Your voice is like)	V(a foghorn)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You make me feel like laughing.	OTHER	P(You make me feel like)	V(laughing)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your clothes make me want to go to a 70s disco night.	OTHER	P(Your clothes make)	V(me want to go to a 70s disco night)	LITERAL	NONE	NONE	EVAL	NONE	NONE
+Your voice is like a whisper.	OTHER	P(Your voice is like)	V(a whisper)	FIGUR	DEHUM	NONE	EVAL	NONE	NONE
+You are as thin as a ghost.	OTHER	P(You are as thin as)	V(a ghost)	FIGUR	DEHUM	TABOO	EVAL	NONE	NONE
+You walk like someone who needs a rest.	ABUSE	P(You walk like)	V(someone who needs a rest)	LITERAL	NONE	NONE	FRAME	NONE	NONE
+Your room is like a partly complete show room. 	OTHER	P(Your room is like)	V(a partly complete show room)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+You make me feel like I went to manners school.	OTHER	P(You make me feel like)	V(I went to manners school)	FIGUR	NONE	NONE	EVAL	NONE	NONE
+Your room is like a cesspit. 	ABUSE	P(Your room is like)	V(a cesspit)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your room is like a padded cell.	ABUSE	P(Your room is like)	V(a padded cell)	FIGUR	NONE	TABOO	EVAL	NONE	NONE
+Your conversations are like walking through treacle.	OTHER	P(Your conversations are like)	V(walking through treacle)	FIGUR	NONE	NONE	EVAL	NONE	ABSURD
+You are as modern as the queen. 	OTHER	P(You are as modern as)	V(the queen)	FIGUR	NONE	NONE	EVAL	CONTRAD	NONE
+Your reaction reminds me of a drug user looking for heroine. 	ABUSE	P(Your reaction reminds me of)	V(a drug user looking for heroine)	FIGUR	NONE	TABOO	EVAL	NONE	NONE

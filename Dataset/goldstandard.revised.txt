@@ -1,0 +1,1001 @@
+#COMPARISON	LABEL
+You behave like a toddler on acid.	ABUSE
+Your face is like a sweaty mess.	ABUSE
+Your manners are like well no manners really.	ABUSE
+You look like you're lost.	OTHER
+Your driving style reminds me of a person who has been badly treated.	ABUSE
+You walk like a giraffe.	ABUSE
+You look like you have been dragged through a hedge backwards.	ABUSE
+You reacted like a child who lost a balloon.	OTHER
+Your progress is like a snail moving.	ABUSE
+Your smile is like a broken cliff.	ABUSE
+Your words are like fire.	OTHER
+You drive like a chimpanzee.	ABUSE
+Your eyes are like a sack of potatoes.	ABUSE
+Your reaction reminds me of someone that's just been told they've got a secret brother.	OTHER
+Your conversations are like a stuttering engine.	ABUSE
+Your words are like a child's.	ABUSE
+Your presence is like that of a wasp.	ABUSE
+Your posture reminds me of an ironing board.	ABUSE
+Your driving style reminds me of nothing that would resemble driving.	ABUSE
+Your comments are like what kindergarten students use.	ABUSE
+Talking to you is like talking to a brick wall in the middle of a desert.	ABUSE
+Your manners are like those of a small child.	ABUSE
+Your nose is like an elephant trunk.	ABUSE
+Your comments are like spiders in ice-cream.	ABUSE
+Your voice sounds like a screaming cat.	ABUSE
+You look as hungry as a hippo.	ABUSE
+Your nose is like an icicle.	OTHER
+You dance like an ironing board.	ABUSE
+You are sweating like a marathon runner in the Sahara.	OTHER
+Your presence is like a parent has turned up at the party.	ABUSE
+Your attention span is like that of a student studying performing arts.	ABUSE
+Your attitude is like a mini tornado.	OTHER
+Your nose is like a healthy dog's.	ABUSE
+Your hands are like cold sausages.	ABUSE
+Your hands are like rakes.	ABUSE
+You make me feel like I'm wearing a straight jacket.	ABUSE
+You walk like a scared penguin walking towards the rough sea.	OTHER
+Your sunburn makes you look like a fresh red apple.	OTHER
+Your input is like a two year old trying to help.	ABUSE
+Your eyes are like bugs.	ABUSE
+Your eyes are like empty voids.	ABUSE
+Your hair looks like a nest.	ABUSE
+You look as tired as a dog.	OTHER
+Your eyes are like doorways into hell itself.	ABUSE
+Your eyes are like a night shift worker on their way home after a shift.	OTHER
+Your lips are like ice.	OTHER
+You drive like nobody's watching.	OTHER
+You make me feel like a volcano about to errupt.	OTHER
+You move like a gorilla.	ABUSE
+Your smile is like the dying sun.	ABUSE
+You look as hungry as a fattened pig.	ABUSE
+You talk like a monkey with a mouth full of nuts.	ABUSE
+You talk like words are going out of fashion.	ABUSE
+Your words are like limp spaghetti.	ABUSE
+Your presence is like a dark stormy night.	OTHER
+You move like a bull in a china shop.	ABUSE
+Your sunburn makes you look like a ripe tomato.	OTHER
+You remind me of a goldfish.	ABUSE
+Your words are like daggers.	OTHER
+You eat like you are in a stuff-yourself-competition.	ABUSE
+You remind me of a stormy night.	OTHER
+You look as tired as the dead.	OTHER
+Your arms are like so short I'm surprised you can find clothes that fit you.	ABUSE
+Your posture reminds me of an elephant.	ABUSE
+Your hands are like jelly.	OTHER
+Your input is like a baby giving their opinion on computer code.	ABUSE
+Your clothes are like crumpled up paper.	OTHER
+Your attitude is like that of a toddler tantruming in the aisles.	ABUSE
+You walk like a decrepit old thing.	ABUSE
+Your face is as pale as a sheet.	OTHER
+Your input is like an an overexcited teacher's.	OTHER
+Your presence is like that of a clown.	ABUSE
+Your voice is like a car alarm.	ABUSE
+Your nose is like a mountain.	ABUSE
+Your smile is like a quarter moon and could be a full one.	OTHER
+You drive like you've just escaped from prison.	ABUSE
+Your presence is like that of a wandering minstrel.	OTHER
+Your attention span is like a goldfish's.	ABUSE
+You talk like a foreigner who doesn't know we speak their language.	ABUSE
+You make me feel like ripping my own arm off to beat myself to death.	ABUSE
+Your posture reminds me of a banana.	OTHER
+You talk like an old man with no teeth.	ABUSE
+You behave like you've not eaten in weeks.	OTHER
+You walk like you have a broom wedged up your backside.	ABUSE
+You are sweating like a dog in heat.	ABUSE
+Your face is like a squashed tomato.	ABUSE
+You are acting like you need a nap.	OTHER
+Your words are like an attack.	OTHER
+You cry like a child who doesn't understand what happened to his favourite superhero.	ABUSE
+Your manners are like a monkey's.	ABUSE
+You dance like a clown.	ABUSE
+Your voice sounds like an out of tune instrument.	ABUSE
+Your progress is like walking through toffee.	ABUSE
+Your attention span is like a flash on a circuit.	ABUSE
+Your attention span is like a child's.	ABUSE
+Your conversations are like you're meeting your boyfriend's parents for the first time.	OTHER
+You look like a homeless person.	ABUSE
+You walk like a shadow.	OTHER
+You talk like you've just seen a pig fly.	OTHER
+Your eyes are like glass balls.	OTHER
+You are acting like a tantruming child.	ABUSE
+You remind me of a dried leaf.	ABUSE
+You look as hungry as a pug.	ABUSE
+You look as tired as a cat.	OTHER
+Your attitude is like a teenager's.	OTHER
+Your progress is like a tortoise.	ABUSE
+Your hair looks like a wet mop.	ABUSE
+You look like someone who's lost a pound and found a penny.	OTHER
+You cry like a girl.	ABUSE
+Your face is like a storm.	OTHER
+You look as tired as a hazy day.	OTHER
+You drive like a scared rabbit.	ABUSE
+You are sweating like a pig.	ABUSE
+You look like you've seen a ghost.	OTHER
+Your reaction reminds me of a shocked cat.	OTHER
+Your face is like a flying saucer.	ABUSE
+You are acting like a dog in a park.	OTHER
+Your clothes are like an old lady´s.	ABUSE
+Your lips are like an emery board.	ABUSE
+You look as hungry as a lion.	OTHER
+You look as hungry as a herd of elephants.	OTHER
+Your hair looks like hay.	ABUSE
+You reacted like a two year old.	ABUSE
+You talk like someone who has been hurt by others.	OTHER
+Your presence is like a stabbing pain in my eye.	ABUSE
+Your words are like a blank dictionary.	ABUSE
+Your manners are like a toddler learning to say please and thank you.	OTHER
+Your posture reminds me of an ill gorilla.	ABUSE
+Your voice is like an alarm only dogs can hear.	ABUSE
+You drive like a learner.	ABUSE
+Your nose is like a locker that someone's trying to punch their way out of.	ABUSE
+Your presence is like play school.	ABUSE
+Your posture reminds me of a giraffe.	OTHER
+Your face is like a red stop light.	ABUSE
+Your conversations are as dull as dishwater.	ABUSE
+Your smile is like a cob of corn.	ABUSE
+Your arms are like tree trunks.	ABUSE
+Your posture reminds me of a chimp.	ABUSE
+Your voice is like pins and needles.	ABUSE
+Your lips are like limp, dead fish.	ABUSE
+You look as tired as as an old tractor tyre that the farmer has run into the ground.	ABUSE
+Your eyes are like pools of mud.	ABUSE
+Your eyes are like windows.	OTHER
+Your voice sounds like chalk on a chalkboard.	ABUSE
+Your movements remind me of an antelope.	OTHER
+Your voice is like a shrill.	ABUSE
+You are acting like an angry beaver.	ABUSE
+Your eyes are like dark pools.	OTHER
+Your reaction reminds me of a corpse.	ABUSE
+Your comments are like those of an alien from mars.	ABUSE
+Your sound like one of those white noise machines people listen to in order to fall asleep.	ABUSE
+Your driving style reminds me of riding a roller coaster.	OTHER
+Your face is like a tomato.	ABUSE
+Your arms are like thin knots on wire.	ABUSE
+You cry like a waterfall.	OTHER
+Your attention span is like a winter's day.	OTHER
+Your face is like a ghost.	OTHER
+Your attention span is smaller than a goldfish's.	ABUSE
+Your eyes are like a setting sun.	OTHER
+Your hands are like a shaky washing machine.	OTHER
+You look like a complete mess.	ABUSE
+You drive like you're in a horse and cart.	OTHER
+Your eyes are like chunks of coal.	ABUSE
+Your attention span is like the inner of a black hole, there is nothing.	ABUSE
+Your presence is like that of a garbage can.	ABUSE
+You look like the back end of a bus.	ABUSE
+You dance like an electric shock victim .	ABUSE
+Your arms are like sticks.	ABUSE
+Your posture reminds me of a weary marathon runner.	OTHER
+Your eyes are like fried eggs.	ABUSE
+You walk like a tightrope walker.	OTHER
+Your smile is like a rough stone.	ABUSE
+Your progress is like the shifting tectonic plates.	ABUSE
+You behave like a dark cloud.	ABUSE
+Your sunburn makes you look like you've been dipped in red paint.	OTHER
+You behave like it's your last meal.	OTHER
+Your arms are like string cheese.	ABUSE
+You talk like a mouse on helium.	ABUSE
+Your driving style reminds me of a rally driver.	OTHER
+Your sunburn makes you look like a lobster.	OTHER
+Your attitude is like that of a great white shark.	OTHER
+You walk like you have three legs and four pockets full of rubble.	ABUSE
+Your reaction reminds me of the Tasmanian devil.	OTHER
+Your hands are like a fidgety squirrel.	OTHER
+You behave like you don't know what is right and wrong.	OTHER
+Your sunburn makes you look like you have full body embarassment 24/7.	ABUSE
+Your manners are like a pig's.	ABUSE
+Your hair looks like cotton wool.	ABUSE
+Your voice sounds like a screeching owl.	ABUSE
+Your movements remind me of a one-legged puppy.	ABUSE
+You move like a snowman waiting for his scarf.	ABUSE
+Your clothes are like the ones a charity shop would throw away.	ABUSE
+Your driving style reminds me of a child driving a pretend car in nursery.	ABUSE
+Your reaction reminds me of a toddler.	ABUSE
+You eat like you have worms.	ABUSE
+Your movements remind me of a dad dancing.	OTHER
+You remind me of a beanstalk.	ABUSE
+You make me feel like bringing up my lunch.	ABUSE
+You are sweating like a horse.	OTHER
+Your lips are like a trout's.	ABUSE
+You cry like a toddler.	ABUSE
+Your comments are like a quiet breeze, they mean nothing.	ABUSE
+Your voice is like nails on a chalkboard.	ABUSE
+Your face is like a prune.	ABUSE
+Your lips are like slugs.	ABUSE
+Your lips are like a cracked glacier.	OTHER
+Your lips are like a dead person's.	ABUSE
+Your driving style reminds me of a monkey at the wheel.	ABUSE
+You behave like a dog.	ABUSE
+Your arms are like wet noodles.	ABUSE
+Your smile is like the back of the moon.	ABUSE
+Your manners are like they would offend a caveman.	ABUSE
+Your face is like a glowing lantern.	ABUSE
+Your attitude is like dirt.	ABUSE
+You talk like a parrot.	ABUSE
+Your hands are like sausages.	ABUSE
+You make me feel like a sad puppy.	OTHER
+You behave like a mime.	ABUSE
+You cry like the foghorn off our local beach.	ABUSE
+You behave like an overfed lion.	ABUSE
+You look as hungry as a horse.	OTHER
+Your voice sounds like you have inhaled helium.	ABUSE
+You eat like you have no teeth.	ABUSE
+Your sunburn makes you look like an orange.	ABUSE
+Your comments are like bumper stickers written by a four year old.	ABUSE
+Your arms are like spaghetti.	ABUSE
+Your driving style reminds me of a blind person driving	ABUSE
+Your attention span is like a trout's.	ABUSE
+Your presence is like that of a puppy in a pet shop.	OTHER
+Your hands are like jellies.	OTHER
+Your nose bears a lot of similarity to a pineapple.	ABUSE
+You drive like an old person, who is also blind.	ABUSE
+Your comments are like something a frosty family would say.	OTHER
+Your comments are like a storm on a summer's day.	OTHER
+Your reaction reminds me of a baboon.	ABUSE
+Your manners are like those of a barnyard animal.	ABUSE
+Your hair looks like you have been electrocuted.	ABUSE
+Your movements remind me of someone having a fit.	ABUSE
+Your smile is like a daisy in amongst the sunflowers.	OTHER
+Your input is like bird intelligence.	ABUSE
+Your hands are like claws.	ABUSE
+You move like slug on a Sunday.	ABUSE
+Your driving style reminds me of trying to escape the police.	OTHER
+Your arms are like jelly.	OTHER
+You dance like a headless chicken.	ABUSE
+You move like a penguin.	ABUSE
+Your attention span is like an owl's.	OTHER
+Your clothes are like you've been through a hedge.	ABUSE
+Your manners are like a bull in a china shop.	ABUSE
+You look as tired as my old tea towel.	ABUSE
+Your manners are like a secret door, always closed.	OTHER
+You look as hungry as a pig.	ABUSE
+You talk like a dull robot.	ABUSE
+Your conversations are like dry rice.	ABUSE
+Your always talk like you're beating around the bush.	OTHER
+You are acting like a five year old.	ABUSE
+Your voice is like an attack.	OTHER
+Your presence is like a breakdown about to happen.	ABUSE
+Your face is like a snooker ball.	ABUSE
+You talk like someone with lots on their mind.	OTHER
+You look like a mess.	ABUSE
+Your hair looks like a wig.	ABUSE
+You are acting like an enraged bull during a china shop exhibition.	OTHER
+You eat like a pig.	ABUSE
+Your sunburn makes you look like a doll painted totally red.	OTHER
+Your input is like an out of control printer.	ABUSE
+Your clothes are like a victorian gentleman designed them.	OTHER
+You talk like an icicle.	OTHER
+Your reaction reminds me of a startled rabbit.	OTHER
+Your face looks like it's been hit with a spade.	ABUSE
+You reacted like a little girl.	ABUSE
+You look as hungry as an obese guy who hasn't eaten for weeks.	ABUSE
+Your arms are like a force of nature.	OTHER
+You behave like an alien who's never eaten.	OTHER
+Your progress is like you would make more progress if you tried to run a marathon sat in an armchair. 	ABUSE
+This dress makes you look like a washer woman.	ABUSE
+You look as tired as an old dishcloth.	ABUSE
+You walk like a duck.	ABUSE
+You drive like an armless child.	ABUSE
+You look as tired as an overtime worker.	OTHER
+You look like a glow stick.	OTHER
+You remind me of pain.	OTHER
+You eat like an animal.	ABUSE
+Your hair looks like a large hat.	OTHER
+This dress makes you look like a dog trapped in a sack.	ABUSE
+Your smile is like a pale sun.	OTHER
+Your hair looks like a bird's nest.	ABUSE
+Your smile looks like that of a toad.	ABUSE
+You cry like a dramatic teenager who just found out their favourite show was cancelled.	ABUSE
+Your reaction reminds me of a little girl.	ABUSE
+You are acting like an animal that has been the subject of medical experiments.	ABUSE
+Your hands are like a plate of sausages.	ABUSE
+Your face is like snow.	OTHER
+You are acting like a runaway train.	OTHER
+You remind me of a lost dog.	OTHER
+Your eyes are like puddles.	OTHER
+Your nose is like a chocolate button.	OTHER
+Your lips are like a fish.	ABUSE
+Your conversations are like a swirling snowstorm.	OTHER
+You cry like a child.	ABUSE
+This dress makes you look like a nun.	OTHER
+Your voice is like a firecracker.	OTHER
+You make me feel like I am going to be sick.	ABUSE
+Your voice is like an army sergeant's.	ABUSE
+You are sweating like a race horse that has just finished a three mile sprint.	OTHER
+You reacted like you had seen someone eat your chocolate.	OTHER
+Your input is like a whirlwind.	OTHER
+You look like an icy abyss.	OTHER
+You are acting like a jittery bird.	OTHER
+Your input is as useful as a brick window.	ABUSE
+You move like an old lady.	ABUSE
+You look as hungry as a wilted flower.	OTHER
+You reacted like someone came into your house on Christmas eve and stole the presents.	OTHER
+Your hair looks like a cloudy day.	OTHER
+You behave like you're starved.	ABUSE
+Your manners are like those of students in freshers week.	OTHER
+Your attention span is like a gnat.	ABUSE
+Your attitude is like you thought chopping off the arm was cool when all it needed was a plaster.	ABUSE
+Your presence is like a breath of fresh air.	OTHER
+You move like a burns victim.	ABUSE
+Your voice sounds like someone hit a cat with a lawnmower.	ABUSE
+Your hands are like a monkey's.	ABUSE
+You look as hungry as a bear.	OTHER
+Your attention span is like that of a moth surrounded by lightbulbs.	ABUSE
+Your smile is like acid.	ABUSE
+You talk like an express train.	OTHER
+Your conversations are like a jigsaw of unrelated pieces.	OTHER
+Your presence is like cold custard.	ABUSE
+You reacted like someone who has not faced up to themself.	OTHER
+Your attention span is like that of someone who only hears what they want to hear.	OTHER
+Your progress is like watching paint dry.	ABUSE
+Your comments are like shallow water lacking depth.	ABUSE
+Your smile is like an ill fitting mask.	ABUSE
+Your face is like a compendium of emotion.	OTHER
+Your posture reminds me of contradictory feelings.	OTHER
+Your hair looks like it has a mind of its own.	OTHER
+Your nose is like a play that runs for years.	ABUSE
+Your driving style reminds me of a ride at the fairground.	OTHER
+Your attitude is like that of a robot with no conscience.	ABUSE
+Your eyes are like they are set in cement.	OTHER
+Talking to you is like  walking against a strong wind.	OTHER
+Your presence is like a cactus in the middle of a bunch of flowers.	ABUSE
+You make me feel like a plant which has been watered with vinegar.	ABUSE
+You reacted like a lighthouse without a bulb.	OTHER
+Your hair looks like a tangled rope.	ABUSE
+Your lips are like a sad clown's.	ABUSE
+Your approach is like you don't care as much usual.	OTHER
+You cook like you have no tastebuds.	ABUSE
+You are built like a brick shed. 	ABUSE
+Your posture reminds me of a plant which has been battered in a storm.	ABUSE
+Your nose is like a marker on a map.	ABUSE
+You cook like a hospitable giant.	ABUSE
+Your input is like a foghorn.	ABUSE
+You look as tired as as someone who hasn't slept for a hundred years.	OTHER
+Your eyes are like military grade lasers.	OTHER
+Your arms are like two sausages.	ABUSE
+You look like a girl.	ABUSE
+Your hair looks like a garden when the gardener called in sick for a month.	ABUSE
+You cook like you are rushing.	OTHER
+You cook like a servant for king's banquet.	OTHER
+Your attention span is like a leaf in the wind.	OTHER
+You are built like a sumo wrestler. 	ABUSE
+You laugh like you have been inhaling helium.	ABUSE
+This dress makes you look like you wanted to include every colour.	OTHER
+You eat like it's going out of fashion.	ABUSE
+Your skin is like wood.	OTHER
+Your attitude is like a warrior.	OTHER
+You eat like the tall man that you are.	OTHER
+Your input is like vinegar on an open wound. 	ABUSE
+You are as thin as a rail.	ABUSE
+Your words cut like a knife.	OTHER
+You laugh like a clown.	ABUSE
+Your voice sounds like someone who had a rough night.	OTHER
+Your presence is like a spectre at a feast.	OTHER
+You laugh like a cackling witch.	ABUSE
+You are sweating like a man on death row.	OTHER
+Your approach is like a hammer hitting a nail.	OTHER
+Your skin is like a wet blanket.	ABUSE
+You are as modern as a caveman.	ABUSE
+Your posture reminds me of a willow tree.	OTHER
+You laugh like it's not really funny.	OTHER
+Your skin is like a white sheet.	OTHER
+You are built like Brutalist architecture.	ABUSE
+Your input is like a sledgehammer.	ABUSE
+You look like you've done twelve rounds in a boxing ring with a heavyweight.	ABUSE
+Your eyes are like an eagle.	OTHER
+Your comments are like having a fever in the middle of a heatwave.	OTHER
+You laugh like a drain.	ABUSE
+You are sweating like hot toast on a worktop.	OTHER
+You talk like a robot.	ABUSE
+Your progress is like a phone charging without being plugged in.	OTHER
+You look as hungry as a wolf.	OTHER
+You cook like you're cooking for a large family.	OTHER
+You are as modern as a typewriter.	OTHER
+Your voice sounds like a piece of raspy sandpaper.	ABUSE
+Your smile is like an act.	ABUSE
+Your comments are like an argument.	ABUSE
+Your attention span is like a phone with its sleep mode on after five seconds.	ABUSE
+Your comments are like insults to my intelligence.	ABUSE
+Your clothes are like the clothes of an old man.	ABUSE
+You make me feel like I don’t matter.	OTHER
+Your sunburn makes you look like a beetroot.	OTHER
+Your attention span is like a scattergun.	OTHER
+You are as modern as today.	OTHER
+You cry like a baby.	ABUSE
+Your approach is like lightning.	OTHER
+You are as modern as a flip phone.	OTHER
+You are as thin as a zombie.	ABUSE
+You are as modern as a grannie.	ABUSE
+You run faster than a minnow can swim a dipper.	ABUSE
+Your lips are like a badly plastered wall.	ABUSE
+Your approach is like that of statue that has been blown over.	ABUSE
+You are as modern as a high street tech shop.	OTHER
+Your sunburn makes you look like a well-ripened pepper.	OTHER
+Your skin is like tissue paper.	ABUSE
+Your input is like a clap of thunder.	OTHER
+You cook like a school dinner lady that is trying to kill all the students.	ABUSE
+Your eyes are like backwards binoculars.	ABUSE
+Your movements remind me of a slow cyclist.	ABUSE
+You laugh like a hyena.	ABUSE
+Your smile is like a mask.	ABUSE
+Your presence is like an uninvited guest.	ABUSE
+You look as hungry as a bottom swallowing a thong.	ABUSE
+Your skin is like that of someone in a black and white photo.	ABUSE
+You remind me of a cat on a hot tin roof.	OTHER
+You are sweating like a waterfall.	ABUSE
+You make me feel like an acquaintance.	OTHER
+You are built like a teddy bear.	ABUSE
+Your voice sounds like it's going to give up soon.	OTHER
+Your lips are like they haven't found the right colour yet.	ABUSE
+Your responses are like you're half asleep.	OTHER
+You move like an old person who lost their bus pass.	ABUSE
+You are built like a champion.	OTHER
+Your responses are like you really need to clear your head and refresh yourself.	ABUSE
+You laugh like a car trying to start its engine.	ABUSE
+You are as thin as piece of wafer.	ABUSE
+You are as modern as a cassette player.	ABUSE
+Your responses are like white noise.	ABUSE
+Your clothes are like work clothes.	ABUSE
+Your attention span is like melting snow.	OTHER
+You laugh like a garbage disposal unit.	ABUSE
+Your skin is like crepe paper.	ABUSE
+Your comments are like a clanging bell.	OTHER
+Your room is like a car crash.	OTHER
+Your words are as clear as mud.	ABUSE
+Your voice sounds like you've got tonsilitis.	OTHER
+This dress makes you look like you're having a duvet day.	ABUSE
+Your smile is like a fake designer bag being sold on the street.	OTHER
+You dance like a moving lemur.	ABUSE
+You reacted like a volcano.	OTHER
+Your lips are like a pale white sheet.	OTHER
+You talk like a snake-oil salesman.	OTHER
+Your clothes make you look fat.	ABUSE
+Your manners are as refined as a pig in a barrel.	ABUSE
+You talk like a fish wife.	OTHER
+You dance like an ok dancer.	OTHER
+Your input is like a negative review.	OTHER
+Your face is like a cloudy day.	OTHER
+You have the face of a monkey.	ABUSE
+Your progress is like torture because it’s so slow and painful.	ABUSE
+Your face is like a puddle of mud.	ABUSE
+With that hairstyle, you look like a homeless person.	ABUSE
+You have the face of an aged man.	ABUSE
+You dance like an engine running out of gas.	OTHER
+Your smile is like a graveyard.	ABUSE
+Your manners are as flippant as a seal.	OTHER
+Your clothes make you look old.	ABUSE
+Your manners are as coarse as sandpaper.	ABUSE
+With that hairstyle, you look like a tired person.	OTHER
+You are as common as dirt.	ABUSE
+You are as common as muck.	ABUSE
+Your input is like using a marshmallow to hammer nails into a wall.	ABUSE
+You talk like a ghost.	OTHER
+You are as modern as the exhibits in a museum.	OTHER
+Your clothes make you look like you don't care.	OTHER
+You are as thin as an elephant.	ABUSE
+Your posture reminds me of a person who is completely overwhelmed.	OTHER
+Your lips are like dried raisins.	ABUSE
+You have the face of a sad person.	OTHER
+Your garden is like a burned desert.	OTHER
+Your clothes make you appear larger than you are.	OTHER
+Your attitude is like the road is war and other drivers are the enemies.	OTHER
+You dance like a child.	ABUSE
+You are as cheap as borscht.	OTHER
+Your garden is like a shed.	ABUSE
+Your clothes make you seem like a bag-lady.	OTHER
+You run like a headless chicken.	ABUSE
+You sing like a mosquito on a sweltering night.	OTHER
+Your manners are as offensive as the worst possible stand up comedian.	OTHER
+You have the face of someone who has sat in a damp patch.	OTHER
+You have the face of thunder.	OTHER
+You remind me of a pig when you eat.	ABUSE
+You have the face of a grey stone statue.	OTHER
+You have the face of a clown.	ABUSE
+Your approach is like an axe chopping wood.	OTHER
+You are as deaf as a doorpost.	OTHER
+Your clothes make people laugh.	ABUSE
+You eat like a three year old.	ABUSE
+You move like you are wading through mud.	OTHER
+You are as dull as ditchwater.	ABUSE
+Your responses are like it's painful for you to talk.	OTHER
+You have the face of a chimpanzee.	ABUSE
+Your responses are like they were said without thinking.	OTHER
+You laugh like a train. 	OTHER
+Your face is like a thunderstorm.	OTHER
+Your conversations are like an empty room.	OTHER
+You sing like a wailing cat.	ABUSE
+You have the face of a glistening waterfall.	OTHER
+You are as thin as a stick.	ABUSE
+Your garden is like a tip.	ABUSE
+Your clothes make no sense.	OTHER
+You eat like a doll.	OTHER
+You are as fat as a cow.	ABUSE
+You cook like a school dinner lady.	OTHER
+You eat like a hungry person.	OTHER
+With that hairstyle, you look like you've been dragged through a hedge backwards.	ABUSE
+You eat like a hungry monkey.	ABUSE
+You eat like a digger.	ABUSE
+Your posture reminds me of a deflated balloon.	OTHER
+You have the face of a porcelain mug.	OTHER
+You talk like a teenager.	ABUSE
+Your face is like the face of somebody who has given up on life.	OTHER
+You are built like a huge unit.	ABUSE
+You are as modern as bakelite.	ABUSE
+With that hairstyle, you look like you're wearing a helmet.	ABUSE
+You remind me of the colour brown.	OTHER
+You sing like a broken parrot.	ABUSE
+You talk like a child.	ABUSE
+Your skin is like a crater on the moon.	ABUSE
+You eat like a warthog.	ABUSE
+You remind me of a clown when you wear makeup.	ABUSE
+You are as cheap as chips.	ABUSE
+Your skin is like rubber.	OTHER
+Your approach is like is loud it can be heard in the Australian outback.	OTHER
+Your manners are as cold as ice.	OTHER
+You look as tired as someone who hasn't slept for two weeks.	OTHER
+You remind me of a rash.	ABUSE
+You sing like a skunk.	ABUSE
+You dance like a disco man.	OTHER
+You sing like a catfish.	ABUSE
+Your attitude is like a hurricane.	OTHER
+Your garden is like a bomb site.	OTHER
+With that hairstyle, you look like you've aged.	OTHER
+Your manners are as refined as a monkey's.	ABUSE
+You have the face of a cow.	ABUSE
+You remind me of a dog slobbering over its dinner.	ABUSE
+You are built like a house.	ABUSE
+Your manners are as limited as a child's.	ABUSE
+Your responses are like a tanker trying to do a U-turn in the ocean.	OTHER
+You have the face of someone only a mother could love.	ABUSE
+Your arms are like milky tubes.	OTHER
+You are as smart as a neanderthal.	ABUSE
+You remind me of a tsunami.	OTHER
+You are as thin as a string bean.	OTHER
+You are as dull as dishwater.	ABUSE
+Your manners are as good as a monkey's.	ABUSE
+You look as hungry as a fat man.	ABUSE
+Your garden is like a jungle.	OTHER
+Your movements remind me of a robot.	ABUSE
+You sing like a piece of chalk on a blackboard.	ABUSE
+You dance like a three-legged animal.	ABUSE
+Your arms are like pastry.	OTHER
+You have the face of a thunderstorm.	OTHER
+You sing like a broken record.	ABUSE
+You have the face of a thundery day.	OTHER
+You remind me of a flat tyre.	ABUSE
+You are as thin as a rake.	OTHER
+With that hairstyle, you look like a clown.	ABUSE
+You are as fat as a house.	ABUSE
+You dance like a bear.	OTHER
+Your skin is like a badly burnt pizza.	ABUSE
+You have the face of a politician.	ABUSE
+This dress makes you look like your hips are wider than usual.	OTHER
+Your clothes are like they are borrowed.	ABUSE
+You cook like you've never seen an oven before.	ABUSE
+With that hairstyle, you look like you've just got out of bed.	OTHER
+You are acting like you have no education.	ABUSE
+Your hair is as silky as sandpaper.	ABUSE
+Your voice sounds like a cheese grater.	ABUSE
+Your hair looks like a sheep dog.	OTHER
+You dance like a broken lamp.	ABUSE
+Your approach is like sandpaper on skin.	ABUSE
+You are as modern as the cavemen.	ABUSE
+You remind me of a train wreck.	ABUSE
+Your room is like a civil service office block.	OTHER
+You have the face of squashed pumpkin.	ABUSE
+Your garden is a mess.	OTHER
+Your room is like a monk's cell.	OTHER
+You sing like a strangled goat.	ABUSE
+You look as tired as someone who has been running a mile.	OTHER
+You have the face of someone who's been eating lemons.	ABUSE
+You have the face of mashed peas.	ABUSE
+You sing like a hawk.	OTHER
+You remind me of a cloudy day.	OTHER
+You are built like someone who needs a lot of sustenance.	OTHER
+You sing like a howling dog.	ABUSE
+You dance like a chimpanzee.	ABUSE
+Your responses are like you are being personally attacked.	OTHER
+Your conversations are like a glacier moving.	OTHER
+You look like you have been dragged through a bush.	ABUSE
+You remind me of roadkill.	ABUSE
+You are as smart as a toad.	ABUSE
+You make me feel like a spare part.	OTHER
+You sing like a karaoke fan.	OTHER
+You cook like a student.	OTHER
+You have the face of a ghost.	OTHER
+With that hairstyle, you look like an old man.	ABUSE
+With that hairstyle, you look like a privet hedge.	ABUSE
+You are sweating like a priest in a playground.	ABUSE
+Your approach is like a sledge hammer.	OTHER
+Your comments are like a dog whistle.	OTHER
+You are acting like you are carrying weights on your back.	OTHER
+Your smile is like it is upside down.	OTHER
+You look as tired as a single mother of four.	ABUSE
+You sing like the wind whistling through my windows on a rainy night.	OTHER
+Your arms are like a determined police officer directing traffic.	OTHER
+Your arms are like a windmill.	OTHER
+Your movements remind me of someone disabled.	ABUSE
+Your clothes are like you are always on your way to a funeral.	ABUSE
+Your smile is like you aren't feeling like yourself these days.	OTHER
+Your comments are like a sigh.	OTHER
+You look as hungry as a vacuum.	OTHER
+Your comments are like those of someone reciting memorized multiplication tables.	OTHER
+You eat like a snail.	OTHER
+Your voice sounds like you have blocked sinuses.	OTHER
+Your sunburn makes you look like a red balloon.	ABUSE
+You look as tired as night.	OTHER
+Your clothes make me feel sick.	ABUSE
+You look as hungry as a person who seems like they have never seen food before.	ABUSE
+This dress makes you look like a new woman.	OTHER
+Your voice sounds like car brakes squealing.	ABUSE
+You eat like you have not eaten in days.	OTHER
+Your voice sounds like a powerful storm blowing through the concert hall.	OTHER
+Your responses are like a cat with its head in box.	OTHER
+Your skin is as pale as vanilla ice cream.	OTHER
+You are acting like a fraction of your age.	ABUSE
+Your skin is like a piece of crepe.	ABUSE
+You eat like you're starving.	OTHER
+You eat like you haven't had any great food in a while.	OTHER
+Your lips are like cracked ice.	OTHER
+Your attention span is like a nano second.	ABUSE
+You look as hungry as a fat kid.	ABUSE
+You talk like a waning candle.	OTHER
+Your nose is like the Niagara falls.	OTHER
+Your smile is like a weeping willow.	OTHER
+Your voice is like a soft breeze, but you can be more forceful when it's called for.	OTHER
+Your manners are like an overbearing waiter.	ABUSE
+Your clothes make you look very large.	ABUSE
+With that hairstyle, you look like a librarian in a British boarding school.	ABUSE
+You sing like you are very passionate.	OTHER
+Your presence is like you're not even there.	OTHER
+Your voice is like a trombone.	OTHER
+You eat like you haven't eaten in days.	OTHER
+Your clothes are like prunes.	ABUSE
+Your skin is like the colour of the moon.	OTHER
+You move like an old person.	ABUSE
+You look as hungry as a marathon finisher.	OTHER
+Your smile is like a yellow crayon.	OTHER
+Your approach is like a bull in a china shop.	ABUSE
+You look as hungry as a man returning from space.	OTHER
+Your lips are like dry leaves.	OTHER
+Your clothes are like they are hanging off you.	OTHER
+You reacted like someone who is frozen in time.	OTHER
+You look as tired as an old handbag.	ABUSE
+Your responses are like someone has never had an adult conversation with you before.	ABUSE
+Your clothes are like a tent.	OTHER
+Your voice is like a car horn.	ABUSE
+Your voice sounds like a distant echo.	OTHER
+You are acting like you're at the end of your tether.	OTHER
+Your movements remind me of an alien.	ABUSE
+Your clothes make you ten years older.	ABUSE
+Your movements remind me of a plodding elephant.	ABUSE
+This dress makes you look like a parent.	ABUSE
+You sing like a thunderstorm.	OTHER
+Your comments are like compliments, so they can be difficult to interpret if you don't like what someone is saying.	OTHER
+Your clothes make you look like you need to go shopping for some.	ABUSE
+Your lips are like a flower in winter - need some extra care.	OTHER
+Your arms are like dowel rods.	OTHER
+You look as tired as a wilting plant.	OTHER
+Your clothes are like you picked them off your bedroom floor this morning.	ABUSE
+Your garden is like a sea of trash.	ABUSE
+You look as tired as your clothes.	ABUSE
+Your movements remind me of a ballet dancer with no training.	ABUSE
+Your presence is like a shadow.	OTHER
+Your presence is like someone trapped in an elevator.	OTHER
+Your manners are like you want to be liked, but you should feel confident to tell the truth.	OTHER
+Your presence is like a cloud across the sky, you are needed and useful but can sometimes be difficult to see.	OTHER
+Your sunburn makes you look like a lobster on a sunbed.	OTHER
+Your lips are like the Gobi desert.	OTHER
+This dress makes you look like you are starring in a musical.	OTHER
+Your posture reminds me of Quasimodo.	ABUSE
+Your posture reminds me of weeping willow tree.	OTHER
+You sing like an off-tune whistle.	ABUSE
+You behave like you are running out of time.	OTHER
+Your voice sounds like a rasp.	OTHER
+Your movements remind me of jelly.	ABUSE
+Your voice sounds like it is getting better all the time.	OTHER
+Your voice is like you've just run a marathon.	OTHER
+Your clothes are like a wrinkled sheet of paper.	OTHER
+Your manners are like the opposite of good customer service.	ABUSE
+Talking to you is like a talking to a tree.	ABUSE
+You move like a pregnant cow.	ABUSE
+You eat like a wilting rose.	OTHER
+You sing like a dying bird.	ABUSE
+With that hairstyle, you look like you've been dragged through a storm.	ABUSE
+You eat like someone with stomach ulcers presented with a buffet of spicy food.	OTHER
+Your nose is like the sun.	OTHER
+Your posture reminds me of a peeled orange rind.	OTHER
+Your smile is like conscientious gymnast, always deliberate and well-practiced.	OTHER
+Your clothes are like an old tree.	ABUSE
+Your voice is like someone hasn't turned on the microphone.	OTHER
+Your arms are like cooked spaghetti.	ABUSE
+Your clothes are like you aren't feeling confident about yourself.	OTHER
+You look as hungry as twenty people.	OTHER
+You are acting like you have no idea where you are heading.	OTHER
+Your attention span is like that of someone who doesn't know the definition of concentration.	OTHER
+You look as tired as a worn out dishcloth.	ABUSE
+Your responses are like those of a dead man.	ABUSE
+You are sweating like a trooper.	OTHER
+Your nose is like it is stuffed, or might be blocked - maybe you aren't feeling well.	OTHER
+Your posture reminds me of someone very caught in the moment.	OTHER
+With that hairstyle, you look like you aren't sure what you want.	OTHER
+Your comments are like the bloopers of a film.	OTHER
+Your smile is like an eclipse.	OTHER
+Your garden is like a field without any grass only not as pretty.	ABUSE
+Your skin is like you've seen a ghost.	OTHER
+Your skin is like the colour of the snow in the arctic.	OTHER
+Your face is like a white sheet of paper.	OTHER
+You look like you're not enjoying yourself.	OTHER
+Your progress is like you're stepping backwards.	OTHER
+You reacted like a woman.	ABUSE
+You move like you're hurt.	OTHER
+Your progress is like a slow climb up a large mountain.	OTHER
+You reacted like you got caught with your trousers down.	OTHER
+You are built like a tank.	OTHER
+You drive like the speed of lightening.	OTHER
+You are acting like you are unhappy.	OTHER
+Your face is like it's as hot as the sun.	OTHER
+You reacted like a virgin.	ABUSE
+With that hairstyle, you look like you had a fight and lost.	OTHER
+You cry like something is really wrong.	OTHER
+You behave like you haven't eaten in a while.	OTHER
+You laugh like a kazoo. 	ABUSE
+You remind me of that person from the cold and flu advert. 	OTHER
+Your approach is like that of someone with brain damage.	ABUSE
+You are as thin as someone who’s just done an extreme diet.	OTHER
+This dress makes you look like a horror show.	ABUSE
+Your approach is like a meteor hitting a mountain.	OTHER
+You are sweating like the ocean.	OTHER
+Your sunburn makes you look like a fire truck.	OTHER
+Your input is like a mudslide.	OTHER
+You look like you're having a bad day.	OTHER
+You move like your energy has been sapped away.	OTHER
+Your progress is like wading through mud.	OTHER
+You drive like a race car driver.	OTHER
+You are built like a professional race car driver.	OTHER
+You dance like you may need a few more lessons.	OTHER
+You remind me of a poor soul.	OTHER
+You laugh like you're faking it.	OTHER
+Your progress is like an old printer printing a full colour page.	OTHER
+Your input is like you don't want this project to succeed. 	OTHER
+Your input is like a garbled voicemail.	ABUSE
+Your approach is like a bus crashing into an oil tanker.	ABUSE
+You drive like you're in a movie.	OTHER
+You drive like you're driving an ambulance. 	OTHER
+You are sweating like a slave picking cotton.	ABUSE
+Your movements remind me of a wasp beetle.	OTHER
+You talk like you're unsure.	OTHER
+This dress makes you look like you are suffering.	ABUSE
+You a sweating like a sponge that has been squeezed.	OTHER
+Your hair looks like you have been running for half an hour.	OTHER
+Your hair looks like you sucked it up into the vacuum.	OTHER
+With that hairstyle, you look like a beehive. 	OTHER
+You are drive like you are busting to use the bathroom.	OTHER
+You cry like a downpour.	OTHER
+You drive like a boy racer.	OTHER
+Your hair looks like it's been trimmed.	OTHER
+You move like in a slow-motion film.	OTHER
+You reacted like dough in the sea.	OTHER
+Your approach is like a bad golfer. 	OTHER
+Your approach is like a giant fat slug.	ABUSE
+You move like you're late for an important meeting.	OTHER
+Your input is like the foam in sea.	OTHER
+Your hair looks like an explosion.	OTHER
+You look like you haven't slept in days. 	OTHER
+You dance like a used car lot blow-up.	OTHER
+With that hairstyle, you look like you've been running.	OTHER
+Your movements remind me of a washing machine's spin cycle.	OTHER
+You dance like no-one is watching.	OTHER
+Your nose is like you've lied too much.	OTHER
+Your input is like a magic eight ball.	OTHER
+Your movements remind me of the ocean.	OTHER
+You are built like a racing driver.	OTHER
+Your movements remind me of a robot.	OTHER
+You are built like a fort.	OTHER
+With that hairstyle, you look like you need a new mirror.	ABUSE
+Your sunburn makes you look like an old piece of leather.	ABUSE
+Your nose is like a hook.	ABUSE
+You are sweating like a tap.	ABUSE
+You reacted like your arthritis somehow got worse.	ABUSE
+With that hairstyle, you look like an overgrown hedge.	ABUSE
+You dance like you lived in the 50's.	OTHER
+Your approach is like a waste of time.	ABUSE
+Your nose is like something that could be used for fishing.	ABUSE
+You cry like someone who really wants to express emotions hard.	OTHER
+With that hairstyle, you look like you got ready in a hurry.	OTHER
+With that hairstyle, you look like a dense leafy tree.	OTHER
+You cry like you've been wounded.	OTHER
+You move like a rainy cloud.	OTHER
+Your manners are like you learned them from a video.	OTHER
+Your sunburn makes you look like you have had a chemical peel.	ABUSE
+You laugh like you're a habitual smoker.	OTHER
+Your nose is like a button.	OTHER
+Your movements remind me of a thriller movie.	OTHER
+Your manners are like you don't care if I like you or not. 	OTHER
+This dress makes you look like you live in a barn.	ABUSE
+You move like a body builder.	OTHER
+Your sunburn makes you look like burnt sausages.	ABUSE
+This dress makes you look like a pile of rags.	ABUSE
+You are built like a Tonka truck.	ABUSE
+You dance like someone being electrocuted.	ABUSE
+You drive like you're about to lose control of your bowels.	ABUSE
+You reacted like a child who had been kept in a cage since birth.	ABUSE
+You remind me of someone in need of a good rest.	OTHER
+Your progress is like a sapling.	OTHER
+You cry like you are in pain.	OTHER
+Your manners are like someone who acts aloof.	OTHER
+Your progress is like an iron without steam.	OTHER
+You dance like you've never heard music before.	OTHER
+Your hair looks like it was quick to do.	OTHER
+Your sunburn makes you look like a light breeze could peel your skin.	OTHER
+Your movements remind me of a muscle twitch.	ABUSE
+You cry like you have an ocean of tears within you.	OTHER
+Your movements remind me of a tornado. 	OTHER
+You move like you're depressed.	OTHER
+Your progress is like a dessert.	OTHER
+Your nose is like something I have never seen before. 	OTHER
+You look like a cold winter's night.	OTHER
+Your input is like you are working on a different task than me.	OTHER
+You are sweating like your parents saw what you did last night.	OTHER
+Your input is like that of someone who didn’t study properly for a test.	OTHER
+You are sweating like a fat person.	ABUSE
+Your movements remind me of a roller coaster.	OTHER
+This dress makes you look like you couldn’t make it to an art shop and only had time to use things at home.	OTHER
+Your movements remind me of someone who’s taking part in a rally race.	OTHER
+With that hairstyle, you look like you got caught in the wind.	OTHER
+You cry like a river after a storm.	OTHER
+You drive like you will get the first prize.	OTHER
+Your manners are like a storm.	OTHER
+Your hair looks like you have changed it. 	OTHER
+Your nose is like a melted mannequin. 	ABUSE
+You move like you're holding the whole world on your shoulders.	OTHER
+This dress makes you look like squat.	ABUSE
+Your hair looks like it is perfect for Halloween.	ABUSE
+You laugh like a loud clown.	ABUSE
+Your progress is like it's stalled a bit.	OTHER
+You are built like a brick outhouse.	OTHER
+Your approach is like an autistic kid let out of the house for the first time.	ABUSE
+You reacted like it was your first time experiencing a fun time.	OTHER
+You are sweating like a block of ice in the hot sun.	OTHER
+You are built like a shack.	ABUSE
+Your nose is like a dollar store witches nose.	ABUSE
+You behave like no one is around. 	OTHER
+Your approach is like typing whilst wearing boxing gloves.	OTHER
+Your progress is like watching the phases of the moon.	OTHER
+You laugh like there's no one listening or watching. 	OTHER
+You move like you have the weight of the world on your shoulders. 	OTHER
+You drive like you have no sense of danger.	OTHER
+You dance like your arms and legs are doing something different. 	OTHER
+You cry like someone forgot your birthday.	OTHER
+You behave like you've not seen food in days.	OTHER
+You are as thin as someone who has been living off coffee alone.	OTHER
+Your progress is like you're still at the start of the race.	OTHER
+Your approach is like a map that leads to nowhere.	OTHER
+You look like someone in need of a hug.	OTHER
+You behave like a tide crashing onto the shoreline.	OTHER
+You are acting like a lost soul.	OTHER
+You cry like an overflowing drain.	OTHER
+Your conversations are like shots in the dark.	ABUSE
+You make me feel like sticking my fingers down my throat and puking.	ABUSE
+Your attitude is like a hungry toddler's.	OTHER
+Your conversations are like dogs howling. 	ABUSE
+Your driving style reminds me of watching paint dry. 	OTHER
+You are as modern as history.	ABUSE
+Your clothes make a real statement.	OTHER
+Your responses are like fire. 	OTHER
+Your driving style reminds me of a car crash. 	ABUSE
+You walk like a disabled cat. 	ABUSE
+Your responses are like you're brain dead. 	ABUSE
+Your attitude is like the steam on my poo.	ABUSE
+You are as modern as those in the middle ages.	ABUSE
+Your attitude is like muck.	ABUSE
+Your words are like a child has written them.	ABUSE
+Your voice is like a painful cry.	OTHER
+Your reaction reminds me of opening champagne.	OTHER
+You make me feel like dog poo. 	ABUSE
+Your attitude is like a swamp.	ABUSE
+Your room is like a bare canvas.	OTHER
+You make me feel like the spectator of a car crash. 	OTHER
+You are as modern as the stone age people.	OTHER
+You cook like you dance. 	OTHER
+You walk like your feet aren't attached to your legs.	ABUSE
+Your words are like a punch to the gut.	OTHER
+Your voice is like a cat has been strangled. 	ABUSE
+Your clothes make me want to laugh. 	ABUSE
+Your driving style reminds me of a grand prix on a good day.	OTHER
+You cook like a refrigerator.	ABUSE
+Your driving style reminds me of a glacier.	OTHER
+Your voice is like a stream. 	OTHER
+Your clothes make you appear twice your size.	ABUSE
+Your clothes make you fill the room.	ABUSE
+Your reaction reminds me of sleeping.	OTHER
+Your words are like a baby's. 	OTHER
+Your reaction reminds me of an actor. 	OTHER
+Your garden is like an overgrown forest.	OTHER
+Your hands are like shrivelled up, old prunes. 	ABUSE
+Your voice is like a bell.	OTHER
+Your reaction reminds me of nothing. 	OTHER
+Your hands are like buckets.	ABUSE
+You make me feel like hiding when you ring the doorbell.	ABUSE
+Your room is like a dark hotel room.	OTHER
+Your manners are as clear as a foggy day.	OTHER
+You cook like you've never turned on an oven before.	ABUSE
+You make me feel like a dustbin.	OTHER
+You walk like a wrestler.	ABUSE
+Your conversations are like a dull day. 	ABUSE
+You cook like someone who is just starting to discover food.	OTHER
+Your words are like those of someone who is just learning to read. 	ABUSE
+Your driving style reminds me of a learner. 	OTHER
+Your room is like a homeless person lives here. 	ABUSE
+Your manners are as smooth as a crowd of football supporters.	OTHER
+Your room is like a dirty drug den. 	ABUSE
+Your driving style reminds me of a dodgem.	ABUSE
+You cook like a blind man. 	ABUSE
+You are as modern as an old person. 	ABUSE
+Your reaction reminds me of a deflated balloon. 	OTHER
+Your attitude is like pond slime.	OTHER
+Your hands are like a ghost's.	OTHER
+You are as thin as a piece of paper.	OTHER
+You walk like you’ve taken a dump in your pants.	ABUSE
+Talking to you is like listening to a bad song on repeat. 	ABUSE
+You are as thin as a matchstick drawing.	ABUSE
+You are as thin as a noodle. 	ABUSE
+You walk like a model. 	OTHER
+You cook like an old person without a brain. 	ABUSE
+Your words are like icicles.	OTHER
+You walk like you are treading on broken glass.	OTHER
+You are as thin as papyrus.	ABUSE
+Your responses are like someone who has just woken from a coma. 	ABUSE
+Your hands are like paper.	OTHER
+Your hands are like those of a china doll.	OTHER
+You cook like you read the instructions backwards. 	ABUSE
+Your conversations are like you are talking to people in a foreign language.	ABUSE
+Your reaction reminds me of a jester.	OTHER
+Your hands are like pieces of string.	ABUSE
+Your driving style reminds me of a kangaroo on speed.	OTHER
+Your words are like stains on a white sheet.	ABUSE
+You make me feel like a wet blanket.	OTHER
+Your attitude is like a thunder cloud.	OTHER
+Your responses are so slow a snail could catch them.	OTHER
+Your words make me feel like I'm being suffocated. 	OTHER
+You cook like a hospital canteen on a bad day.	ABUSE
+You are as thin as dirty, old dish water.	ABUSE
+You are as modern as a Stone Age man's grandma. 	ABUSE
+Your room is like a DIY project.	OTHER
+You are as thin as a pencil. 	ABUSE
+Your responses are like nothing I’ve ever seen.	OTHER
+Your manners are like those of a German racing for a sun lounger.	ABUSE
+Your clothes make me smile.	OTHER
+Your conversations are like someone who is in the clouds.	OTHER
+Your words are like stone. 	OTHER
+Your words are like a knife. 	OTHER
+You are as modern as the plague.	ABUSE
+Your responses are like sandpaper.	OTHER
+Your conversations are like a TV soap.	OTHER
+Your garden is like a sewer. 	ABUSE
+Your reaction reminds me of a mute.	ABUSE
+Your voice is like a a drone. 	ABUSE
+Your manners are as good as your golf skills. 	OTHER
+Your attitude is like a broken umbrella.	OTHER
+You are as modern as a hermit. 	OTHER
+Your responses are like stones sinking to the bottom of a pond.	OTHER
+You walk like someone walking through fire.	OTHER
+Your room is like the inside of a sewer.	ABUSE
+Your garden is like a forest.	OTHER
+Your hands are like a witch's.	ABUSE
+Your garden is like a refugee camp. 	ABUSE
+Your voice is like a foghorn.	ABUSE
+You make me feel like laughing.	OTHER
+Your clothes make me want to go to a 70s disco night.	OTHER
+Your voice is like a whisper.	OTHER
+You are as thin as a ghost.	OTHER
+You walk like someone who needs a rest.	ABUSE
+Your room is like a partly complete show room. 	OTHER
+You make me feel like I went to manners school.	OTHER
+Your room is like a cesspit. 	ABUSE
+Your room is like a padded cell.	ABUSE
+Talking to you is like walking through treacle.	OTHER
+You are as modern as the queen. 	OTHER
+Your reaction reminds me of a drug user looking for heroin. 	ABUSE
